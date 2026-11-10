@@ -1,5 +1,13 @@
 # What's new
 
+## v0.9.98 — Hardware compatibility update
+
+- Fix the nds-bootstrap Pokémon Summary freeze with self-contained handling of the native cartridge checks in both games.
+- Restore Black 2’s complete ARM9i/ARM7i sections from a verified original. The required Black 2 source hash changes; White 2’s is unchanged. See [PATCHING.md](PATCHING.md).
+- Preserve all v0.9.97 finished content, save format and permanent memory sizes. Public patches produce the exact same game binaries as the v0.9.98 hardware test.
+- Kai confirmed Summary working on DSi hardware in DS mode and reported DSi mode working after a first launch in DS mode. Hardware coverage is not exhaustive.
+- Fresh full-ROM xdelta reconstruction and paired native menu, Summary, starter-scene and compatibility regressions pass.
+
 ## v0.9.97 · November 10, 2026
 
 ### New-game Pokémon-menu hotfix
