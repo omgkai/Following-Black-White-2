@@ -25,7 +25,7 @@ Following Black & White 2 brings your lead Pokémon into the world around you. T
 | :--- | :--- | :--- |
 | Following Pokémon and context-aware conversations. | Expressive battle backgrounds in supported areas. | Optional experience, level-cap and scaling settings. |
 | Partner gifts and nearby hidden-item alerts. | Animated scenery and available seasonal variants. | Configurable wild/trainer randomization and shiny settings. |
-| Followers integrated into story moments. | Manual trainer rematches, including Gym Leaders; postgame leader rematches use PWT teams. | Free party-menu Move Relearner, portable BOX access and IV/EV viewing. |
+| Followers integrated into story moments. | Manual trainer rematches, including Gym Leaders; postgame leader rematches use PWT teams. | Free party-menu Move Relearner, party nicknaming, portable BOX access and IV/EV viewing. |
 
 The focus stays on Gen 5 and the original Black 2 / White 2 adventure. Custom backgrounds cover selected areas; additional scenery and postgame work remain unfinished.
 
@@ -35,10 +35,10 @@ The focus stays on Gen 5 and the original Black 2 / White 2 adventure. Custom ba
 
 | Your game | Current patch |
 | :--- | :--- |
-| Pokémon Black 2 | [Following Black 2 · v0.9.98](https://github.com/omgkai/Following-Black-White-2/releases/download/v0.9.98/Following-Black-2-v0.9.98.xdelta) |
-| Pokémon White 2 | [Following White 2 · v0.9.98](https://github.com/omgkai/Following-Black-White-2/releases/download/v0.9.98/Following-White-2-v0.9.98.xdelta) |
+| Pokémon Black 2 | [Following Black 2 · v0.9.99](https://github.com/omgkai/Following-Black-White-2/releases/download/v0.9.99/Following-Black-2-v0.9.99.xdelta) |
+| Pokémon White 2 | [Following White 2 · v0.9.99](https://github.com/omgkai/Following-Black-White-2/releases/download/v0.9.99/Following-White-2-v0.9.99.xdelta) |
 
-> **Hardware compatibility update:** v0.9.98 fixes the nds-bootstrap Summary freeze and restores Black 2’s complete DSi code sections. **Black 2’s required original has changed.** Existing battery saves can be kept. Read the [patching guide](PATCHING.md) before updating.
+> **v0.9.99 hotfix:** fixes the mandatory Pokéstar Studios movie and Name Rater crashes in both games, adds party-menu nicknaming and catch EXP, and corrects wild shiny odds. The supported original ROMs are unchanged from v0.9.98. Keep your battery save and read the [patching guide](PATCHING.md) before updating.
 
 These downloads are patches. Bring your matching original English **DSi Enhanced** ROM and apply the patch for that game. [Patching instructions and supported source hashes →](PATCHING.md)
 
@@ -57,7 +57,7 @@ The [changelog](CHANGELOG.md) records releases, and each [GitHub Release](https:
 
 If something goes wrong, [open an issue](https://github.com/omgkai/Following-Black-White-2/issues/new) with your game, patch version, emulator/device, steps to reproduce, and whether you started normally or loaded an older state. Screenshots or recordings are useful. Do not upload ROM files or personal saves to a public issue.
 
-This is an as-is community release. Kai played through the main campaign during development; the v0.9.98 hotfix also has targeted offline regressions. Every hardware, battle effect and camera combination has not been verified. Kai confirmed the Summary fix on DSi hardware in DS mode and reported DSi mode working after first booting in DS mode. Hardware coverage is not exhaustive; compatibility with other hacks remains unverified. Some transport sequences recall the follower where the original scene supports only one actor.
+This is an as-is community release. Kai played through the main campaign during development; v0.9.99 also has targeted paired melonDS and native regression checks. Kai confirmed both v0.9.99 prepatched builds work before publication. Every hardware, battle effect and camera combination has not been verified. Kai confirmed the Summary fix on DSi hardware in DS mode and reported DSi mode working after first booting in DS mode. Hardware coverage is not exhaustive; compatibility with other hacks remains unverified. Some transport sequences recall the follower where the original scene supports only one actor.
 
 ## About the project
 

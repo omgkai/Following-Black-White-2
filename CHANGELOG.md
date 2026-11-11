@@ -1,5 +1,20 @@
 # What's new
 
+## v0.9.99 · November 11, 2026
+
+### Pokéstar & Name Rater hotfix
+
+- Fix the mandatory Pokéstar Studios tutorial movie and Name Rater Pokémon-selection crashes in both games. Relocate the added field helpers and preserve the native boundaries of the field and Summary modules.
+- Add **NICKNAME** to the party menu with the original naming keyboard.
+- Award **EXP and EVs on successful catches** through the existing reward/settings pipeline.
+- Correct wild shiny boosts after native personality-value normalization, including the 1/1024, 1/512 and 1/256 settings.
+- Preserve v0.9.98 backgrounds, maps, messages, story scripts, DSi sections and battery-save format. Supported original ROM hashes are unchanged.
+- Both movies completed in isolated melonDS tests; Name Rater, party naming, Summary and IV/EV checks pass in both games. Native reward/shiny tests and exact full-ROM xdelta reconstruction pass. Kai confirmed both prepatched builds work and authorized publication. Targeted checks are not a complete new playthrough or exhaustive hardware test.
+
+**Updating:** patch your matching clean original, keep a backup of your `.sav`, and boot normally through Continue. Older emulator states restore old code.
+
+[Download v0.9.99](https://github.com/omgkai/Following-Black-White-2/releases/tag/v0.9.99)
+
 ## v0.9.98 — Hardware compatibility update
 
 - Fix the nds-bootstrap Pokémon Summary freeze with self-contained handling of the native cartridge checks in both games.
