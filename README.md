@@ -42,6 +42,11 @@ The focus stays on Gen 5 and the original Black 2 / White 2 adventure. Custom ba
 
 These downloads are patches. Bring your matching original English **DSi Enhanced** ROM and apply the patch for that game. [Patching instructions and supported source hashes →](PATCHING.md)
 
+
+## Upcoming update · v0.9.102 (testing)
+
+The next update adds [level-up replacements for trade evolutions](docs/v0.9.102/TRADE-EVOLUTIONS.md) and an optional [Full Dex encounter mode](docs/v0.9.102/FULL-DEX.md), alongside follower and saved-option fixes. These guides describe the testing candidate; the current public downloads above remain v0.9.99.
+
 ## Your first steps
 
 1. Download the patch for your game from [Releases](https://github.com/omgkai/Following-Black-White-2/releases/latest).
