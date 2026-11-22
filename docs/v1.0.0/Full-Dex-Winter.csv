@@ -1,0 +1,650 @@
+dex,pokemon,season,area,zone,method,chance_percent,min_level,max_level
+1,Bulbasaur,Winter,Lostlorn Forest,385,Grass / cave,1,52,55
+2,Ivysaur,Winter,Pinwheel Forest,154,Grass / cave,1,55,58
+3,Venusaur,Winter,Castelia Sewers,495,Grass / cave,1,58,61
+4,Charmander,Winter,Desert Resort,157,Grass / cave,1,52,55
+5,Charmeleon,Winter,Desert Resort,158,Grass / cave,1,55,58
+6,Charizard,Winter,Reversal Mountain,461,Grass / cave,1,58,61
+7,Squirtle,Winter,Striaton City,6,Surf,1,52,55
+8,Wartortle,Winter,Virbank City,448,Surf,1,55,58
+9,Blastoise,Winter,Humilau City,465,Fishing,1,58,61
+10,Caterpie,Winter,Pinwheel Forest,154,Grass / cave,1,49,52
+11,Metapod,Winter,Lostlorn Forest,385,Grass / cave,4,50,53
+12,Butterfree,Winter,Route 7,337,Grass / cave,1,54,57
+13,Weedle,Winter,Castelia Sewers,496,Grass / cave,1,49,52
+14,Kakuna,Winter,Castelia Sewers,497,Grass / cave,1,50,53
+15,Beedrill,Winter,Castelia Sewers,498,Grass / cave,1,54,57
+16,Pidgey,Winter,Route 7,337,Grass / cave,1,51,54
+17,Pidgeotto,Winter,Route 7,337,Grass / cave,4,53,56
+18,Pidgeot,Winter,Route 7,337,Grass / cave,10,56,59
+19,Rattata,Winter,Castelia Sewers,495,Grass / cave,40,14,16
+20,Raticate,Winter,Dreamyard,152,Grass / cave,10,57,57
+21,Spearow,Winter,Castelia City,500,Grass / cave,1,51,54
+22,Fearow,Winter,Dreamyard,152,Grass / cave,1,56,59
+23,Ekans,Winter,Castelia Sewers,499,Grass / cave,1,52,55
+24,Arbok,Winter,Virbank Complex,457,Grass / cave,1,55,58
+25,Pikachu,Winter,Chargestone Cave,195,Grass / cave,1,52,55
+26,Raichu,Winter,Chargestone Cave,196,Grass / cave,1,56,59
+27,Sandshrew,Winter,Desert Resort,158,Grass / cave,10,19,19
+28,Sandslash,Winter,Route 15,378,Grass / cave,30,54,56
+29,Nidoran♀,Winter,Castelia Sewers,495,Grass / cave,1,51,54
+30,Nidorina,Winter,Castelia Sewers,496,Grass / cave,1,54,57
+31,Nidoqueen,Winter,Clay Tunnel,506,Grass / cave,1,57,60
+32,Nidoran♂,Winter,Castelia Sewers,497,Grass / cave,1,51,54
+33,Nidorino,Winter,Castelia Sewers,498,Grass / cave,1,54,57
+34,Nidoking,Winter,Clay Tunnel,507,Grass / cave,1,57,60
+35,Clefairy,Winter,Giant Chasm,232,Grass / cave,20,45,45
+36,Clefable,Winter,Dragonspiral Tower,205,Grass / cave,1,56,59
+37,Vulpix,Winter,Abundant Shrine,376,Grass / cave,10,34,34
+38,Ninetales,Winter,Desert Resort,157,Grass / cave,1,57,60
+39,Jigglypuff,Winter,Dreamyard,152,Grass / cave,10,57,57
+40,Wigglytuff,Winter,Dragonspiral Tower,206,Grass / cave,1,55,58
+41,Zubat,Winter,Castelia Sewers,495,Grass / cave,40,14,16
+42,Golbat,Winter,Celestial Tower,342,Grass / cave,20,33,33
+43,Oddish,Winter,Route 6,331,Grass / cave,1,53,56
+44,Gloom,Winter,Castelia Sewers,499,Grass / cave,1,54,57
+45,Vileplume,Winter,Virbank Complex,457,Grass / cave,1,57,60
+46,Paras,Winter,Pinwheel Forest,154,Grass / cave,4,52,55
+47,Parasect,Winter,Lostlorn Forest,385,Grass / cave,5,55,58
+48,Venonat,Winter,Castelia Sewers,496,Grass / cave,4,52,55
+49,Venomoth,Winter,Castelia Sewers,497,Grass / cave,4,56,59
+50,Diglett,Winter,Clay Tunnel,508,Grass / cave,1,51,54
+51,Dugtrio,Winter,Desert Resort,158,Grass / cave,1,55,58
+52,Meowth,Winter,Giant Chasm,230,Grass / cave,1,52,55
+53,Persian,Winter,Giant Chasm,231,Grass / cave,1,56,59
+54,Psyduck,Winter,Floccesy Ranch,445,Grass / cave,10,5,5
+55,Golduck,Winter,Village Bridge,255,Grass / cave,35,36,38
+56,Mankey,Winter,Floccesy Ranch,445,Grass / cave,1,52,55
+57,Primeape,Winter,Route 23,475,Grass / cave,1,56,59
+58,Growlithe,Winter,Virbank Complex,457,Grass / cave,10,11,11
+59,Arcanine,Winter,Reversal Mountain,461,Grass / cave,4,58,61
+60,Poliwag,Winter,Route 6,331,Fishing,65,40,70
+61,Poliwhirl,Winter,Pinwheel Forest,155,Surf,1,54,57
+62,Poliwrath,Winter,Floccesy Ranch,444,Surf,1,57,60
+63,Abra,Winter,Strange House,462,Grass / cave,4,52,55
+64,Kadabra,Winter,Dreamyard,152,Grass / cave,1,55,58
+65,Alakazam,Winter,Strange House,462,Grass / cave,5,57,60
+66,Machop,Winter,Pinwheel Forest,154,Grass / cave,4,52,55
+67,Machoke,Winter,Floccesy Ranch,445,Grass / cave,1,55,58
+68,Machamp,Winter,Twist Mountain,200,Grass / cave,1,57,60
+69,Bellsprout,Winter,Castelia Sewers,495,Grass / cave,4,52,55
+70,Weepinbell,Winter,Castelia Sewers,499,Grass / cave,4,54,57
+71,Victreebel,Winter,Virbank Complex,457,Grass / cave,4,57,60
+72,Tentacool,Winter,Virbank Complex,456,Fishing,1,53,56
+73,Tentacruel,Winter,Virbank Complex,456,Fishing,5,57,60
+74,Geodude,Winter,Twist Mountain,201,Grass / cave,1,52,55
+75,Graveler,Winter,Twist Mountain,202,Grass / cave,1,54,57
+76,Golem,Winter,Twist Mountain,203,Grass / cave,1,57,60
+77,Ponyta,Winter,Desert Resort,157,Grass / cave,4,55,58
+78,Rapidash,Winter,Desert Resort,158,Grass / cave,4,57,60
+79,Slowpoke,Winter,P2 Laboratory,238,Surf,1,52,55
+80,Slowbro,Winter,Undella Bay,240,Surf,1,57,60
+81,Magnemite,Winter,Virbank Complex,457,Grass / cave,20,10,10
+82,Magneton,Winter,P2 Laboratory,238,Grass / cave,10,57,57
+83,Farfetch'd,Winter,Giant Chasm,232,Grass / cave,1,53,56
+84,Doduo,Winter,Giant Chasm,233,Grass / cave,1,52,55
+85,Dodrio,Winter,Giant Chasm,234,Grass / cave,1,56,59
+86,Seel,Winter,Seaside Cave,515,Surf,30,25,40
+87,Dewgong,Winter,Floccesy Ranch,445,Surf,1,56,59
+88,Grimer,Winter,Castelia Sewers,495,Grass / cave,5,15,15
+89,Muk,Winter,Route 9,348,Grass / cave,5,40,40
+90,Shellder,Winter,Route 13,370,Fishing,30,40,60
+91,Cloyster,Winter,Seaside Cave,515,Surf,1,58,61
+92,Gastly,Winter,Celestial Tower,340,Grass / cave,1,52,55
+93,Haunter,Winter,Celestial Tower,341,Grass / cave,1,55,58
+94,Gengar,Winter,Celestial Tower,342,Grass / cave,1,57,60
+95,Onix,Winter,Victory Road,590,Grass / cave,10,43,43
+96,Drowzee,Winter,Dreamyard,152,Grass / cave,4,53,56
+97,Hypno,Winter,Strange House,462,Grass / cave,5,57,60
+98,Krabby,Winter,Virbank City,448,Fishing,30,40,60
+99,Kingler,Winter,Village Bridge,255,Surf,1,56,59
+100,Voltorb,Winter,Chargestone Cave,197,Grass / cave,1,53,56
+101,Electrode,Winter,Chargestone Cave,197,Grass / cave,1,57,60
+102,Exeggcute,Winter,Route 6,331,Grass / cave,1,53,56
+103,Exeggutor,Winter,Route 6,331,Grass / cave,4,58,61
+104,Cubone,Winter,Clay Tunnel,506,Grass / cave,1,53,56
+105,Marowak,Winter,Clay Tunnel,507,Grass / cave,1,55,58
+106,Hitmonlee,Winter,Dragonspiral Tower,207,Grass / cave,1,56,59
+107,Hitmonchan,Winter,Victory Road,592,Grass / cave,1,56,59
+108,Lickitung,Winter,Route 2,319,Grass / cave,10,58,58
+109,Koffing,Winter,Virbank Complex,457,Grass / cave,10,10,10
+110,Weezing,Winter,P2 Laboratory,238,Grass / cave,10,57,57
+111,Rhyhorn,Winter,Twist Mountain,200,Grass / cave,1,53,56
+112,Rhydon,Winter,Twist Mountain,201,Grass / cave,1,57,60
+113,Chansey,Winter,Victory Road,589,Grass / cave,1,56,59
+114,Tangela,Winter,Giant Chasm,230,Grass / cave,20,44,44
+115,Kangaskhan,Winter,Victory Road,595,Grass / cave,1,57,60
+116,Horsea,Winter,P2 Laboratory,238,Fishing,35,35,55
+117,Seadra,Winter,Route 1,317,Surf,1,56,59
+118,Goldeen,Winter,Striaton City,6,Fishing,65,40,70
+119,Seaking,Winter,Route 3,321,Surf,1,56,59
+120,Staryu,Winter,Route 13,370,Surf,30,25,40
+121,Starmie,Winter,Wellspring Cave,324,Surf,1,58,61
+122,Mr. Mime,Winter,Dreamyard,152,Grass / cave,4,56,59
+123,Scyther,Winter,Lostlorn Forest,385,Grass / cave,10,57,60
+124,Jynx,Winter,Twist Mountain,202,Grass / cave,1,56,59
+125,Electabuzz,Winter,Chargestone Cave,195,Grass / cave,4,57,60
+126,Magmar,Winter,Virbank Complex,456,Grass / cave,1,57,60
+127,Pinsir,Winter,Route 12,368,Grass / cave,5,38,38
+128,Tauros,Winter,Relic Passage,503,Grass / cave,1,57,60
+129,Magikarp,Winter,Wellspring Cave,325,Surf,1,50,53
+130,Gyarados,Winter,Route 13,370,Fishing,1,58,61
+131,Lapras,Winter,Route 6,331,Surf,1,58,61
+132,Ditto,Winter,Giant Chasm,232,Grass / cave,10,45,45
+133,Eevee,Winter,Castelia City,500,Grass / cave,4,18,18
+134,Vaporeon,Winter,Route 11,365,Surf,1,58,61
+135,Jolteon,Winter,Chargestone Cave,196,Grass / cave,4,58,61
+136,Flareon,Winter,Reversal Mountain,461,Grass / cave,10,58,61
+137,Porygon,Winter,Relic Passage,504,Grass / cave,1,54,57
+138,Omanyte,Winter,Wellspring Cave,324,Fishing,4,53,56
+139,Omastar,Winter,Wellspring Cave,325,Fishing,4,57,60
+140,Kabuto,Winter,Wellspring Cave,324,Fishing,5,53,56
+141,Kabutops,Winter,Wellspring Cave,325,Fishing,5,57,60
+142,Aerodactyl,Winter,Twist Mountain,203,Grass / cave,1,57,60
+143,Snorlax,Winter,Route 2,319,Grass / cave,1,58,61
+144,Articuno,Winter,Giant Chasm,230,Grass / cave,1,59,62
+145,Zapdos,Winter,Chargestone Cave,195,Grass / cave,4,59,62
+146,Moltres,Winter,Desert Resort,158,Grass / cave,5,59,62
+147,Dratini,Winter,Dragonspiral Tower,208,Grass / cave,1,52,55
+148,Dragonair,Winter,Dragonspiral Tower,206,Grass / cave,1,55,58
+149,Dragonite,Winter,Dragonspiral Tower,207,Grass / cave,1,60,63
+150,Mewtwo,Winter,Strange House,462,Grass / cave,10,62,65
+151,Mew,Winter,Relic Passage,505,Grass / cave,1,60,63
+152,Chikorita,Winter,Pinwheel Forest,155,Grass / cave,1,52,55
+153,Bayleef,Winter,Victory Road,588,Grass / cave,1,55,58
+154,Meganium,Winter,Route 12,368,Grass / cave,1,58,61
+155,Cyndaquil,Winter,Desert Resort,157,Grass / cave,4,52,55
+156,Quilava,Winter,Virbank Complex,457,Grass / cave,4,55,58
+157,Typhlosion,Winter,Virbank Complex,456,Grass / cave,1,58,61
+158,Totodile,Winter,Route 14,374,Surf,1,52,55
+159,Croconaw,Winter,Abundant Shrine,376,Surf,1,55,58
+160,Feraligatr,Winter,Route 18,387,Surf,1,58,61
+161,Sentret,Winter,Route 5,329,Grass / cave,1,50,53
+162,Furret,Winter,Route 9,348,Grass / cave,1,55,58
+163,Hoothoot,Winter,Village Bridge,255,Grass / cave,1,51,54
+164,Noctowl,Winter,Route 13,370,Grass / cave,1,56,59
+165,Ledyba,Winter,Seaside Cave,516,Grass / cave,1,51,54
+166,Ledian,Winter,Mistralton Cave,333,Grass / cave,1,54,57
+167,Spinarak,Winter,Castelia Sewers,498,Grass / cave,4,51,54
+168,Ariados,Winter,Castelia Sewers,496,Grass / cave,4,54,57
+169,Crobat,Winter,Castelia Sewers,495,Grass / cave,4,58,61
+170,Chinchou,Winter,Undella Bay,240,Fishing,65,40,70
+171,Lanturn,Winter,P2 Laboratory,238,Fishing,1,56,59
+172,Pichu,Winter,Chargestone Cave,196,Grass / cave,4,50,53
+173,Cleffa,Winter,Route 16,383,Grass / cave,1,50,53
+174,Igglybuff,Winter,Victory Road,587,Grass / cave,1,50,53
+175,Togepi,Winter,Victory Road,590,Grass / cave,1,51,54
+176,Togetic,Winter,Village Bridge,255,Grass / cave,1,55,58
+177,Natu,Winter,Mistralton Cave,334,Grass / cave,1,53,56
+178,Xatu,Winter,Guidance Chamber,335,Grass / cave,1,56,59
+179,Mareep,Winter,Floccesy Ranch,445,Grass / cave,10,5,5
+180,Flaaffy,Winter,Chargestone Cave,197,Grass / cave,4,54,57
+181,Ampharos,Winter,P2 Laboratory,238,Grass / cave,1,57,60
+182,Bellossom,Winter,Pinwheel Forest,155,Grass / cave,1,57,60
+183,Marill,Winter,Village Bridge,255,Grass / cave,30,36,37
+184,Azumarill,Winter,Route 19,437,Surf,1,55,58
+185,Sudowoodo,Winter,Clay Tunnel,508,Grass / cave,1,55,58
+186,Politoed,Winter,Route 20,446,Surf,1,57,60
+187,Hoppip,Winter,Route 13,370,Grass / cave,1,51,54
+188,Skiploom,Winter,Route 15,378,Grass / cave,1,53,56
+189,Jumpluff,Winter,Pinwheel Forest,154,Grass / cave,10,56,59
+190,Aipom,Winter,Victory Road,591,Grass / cave,1,54,57
+191,Sunkern,Winter,Route 20,446,Grass / cave,4,4,4
+192,Sunflora,Winter,Victory Road,593,Grass / cave,1,55,58
+193,Yanma,Winter,Pinwheel Forest,154,Grass / cave,10,55,55
+194,Wooper,Winter,Route 22,474,Surf,1,50,53
+195,Quagsire,Winter,Route 23,475,Surf,1,55,58
+196,Espeon,Winter,Victory Road,594,Grass / cave,1,58,61
+197,Umbreon,Winter,Giant Chasm,231,Grass / cave,1,58,61
+198,Murkrow,Winter,Giant Chasm,234,Grass / cave,1,55,58
+199,Slowking,Winter,Undella Town,412,Fishing,1,57,60
+200,Misdreavus,Winter,Celestial Tower,339,Grass / cave,1,55,58
+201,Unown,Winter,Victory Road,596,Grass / cave,1,53,56
+202,Wobbuffet,Winter,Dreamyard,152,Grass / cave,5,55,58
+203,Girafarig,Winter,Giant Chasm,232,Grass / cave,1,56,59
+204,Pineco,Winter,Seaside Cave,516,Grass / cave,1,52,55
+205,Forretress,Winter,Chargestone Cave,195,Grass / cave,5,56,59
+206,Dunsparce,Winter,Castelia City,500,Grass / cave,1,55,58
+207,Gligar,Winter,Route 15,378,Grass / cave,20,55,55
+208,Steelix,Winter,Clay Tunnel,506,Grass / cave,4,57,60
+209,Snubbull,Winter,Dragonspiral Tower,205,Grass / cave,1,52,55
+210,Granbull,Winter,Giant Chasm,233,Grass / cave,1,56,59
+211,Qwilfish,Winter,Virbank City,448,Fishing,4,50,70
+212,Scizor,Winter,Chargestone Cave,196,Grass / cave,5,57,60
+213,Shuckle,Winter,Seaside Cave,516,Grass / cave,4,41,41
+214,Heracross,Winter,Route 12,368,Grass / cave,10,36,36
+215,Sneasel,Winter,Giant Chasm,231,Grass / cave,20,44,44
+216,Teddiursa,Winter,Victory Road,587,Grass / cave,1,53,56
+217,Ursaring,Winter,Victory Road,589,Grass / cave,1,57,60
+218,Slugma,Winter,Reversal Mountain,461,Grass / cave,10,51,54
+219,Magcargo,Winter,Twist Mountain,200,Grass / cave,4,55,58
+220,Swinub,Winter,Twist Mountain,201,Grass / cave,4,51,54
+221,Piloswine,Winter,Giant Chasm,231,Grass / cave,20,44,44
+222,Corsola,Winter,Route 18,387,Fishing,4,60,70
+223,Remoraid,Winter,Undella Bay,240,Fishing,30,40,60
+224,Octillery,Winter,Route 17,423,Surf,1,57,60
+225,Delibird,Winter,Giant Chasm,230,Grass / cave,4,44,44
+226,Mantine,Winter,Route 13,370,Fishing,4,56,59
+227,Skarmory,Winter,Reversal Mountain,461,Grass / cave,5,34,34
+228,Houndour,Winter,Route 9,348,Grass / cave,1,53,56
+229,Houndoom,Winter,Route 9,348,Grass / cave,4,57,60
+230,Kingdra,Winter,Route 23,475,Fishing,4,58,61
+231,Phanpy,Winter,Clay Tunnel,507,Grass / cave,4,53,56
+232,Donphan,Winter,Clay Tunnel,508,Grass / cave,4,57,60
+233,Porygon2,Winter,Victory Road,590,Grass / cave,1,57,60
+234,Stantler,Winter,Victory Road,591,Grass / cave,1,56,59
+235,Smeargle,Winter,Victory Road,595,Grass / cave,1,51,54
+236,Tyrogue,Winter,Route 23,475,Grass / cave,4,50,53
+237,Hitmontop,Winter,Floccesy Ranch,445,Grass / cave,4,56,59
+238,Smoochum,Winter,Twist Mountain,202,Grass / cave,4,52,55
+239,Elekid,Winter,Virbank Complex,456,Grass / cave,5,11,11
+240,Magby,Winter,Virbank Complex,457,Grass / cave,20,10,10
+241,Miltank,Winter,Relic Passage,503,Grass / cave,1,57,60
+242,Blissey,Winter,Relic Passage,504,Grass / cave,1,58,61
+243,Raikou,Winter,Chargestone Cave,197,Grass / cave,5,59,62
+244,Entei,Winter,Virbank Complex,457,Grass / cave,5,59,62
+245,Suicune,Winter,Route 21,463,Surf,1,59,62
+246,Larvitar,Winter,Twist Mountain,203,Grass / cave,4,52,55
+247,Pupitar,Winter,Route 15,378,Grass / cave,10,55,55
+248,Tyranitar,Winter,Giant Chasm,231,Grass / cave,4,60,63
+249,Lugia,Winter,Relic Passage,505,Grass / cave,1,62,65
+250,Ho-Oh,Winter,Virbank Complex,456,Grass / cave,4,62,65
+251,Celebi,Winter,Route 6,331,Grass / cave,4,60,63
+252,Treecko,Winter,Victory Road,588,Grass / cave,1,52,55
+253,Grovyle,Winter,Victory Road,593,Grass / cave,1,55,58
+254,Sceptile,Winter,Route 12,368,Grass / cave,1,58,61
+255,Torchic,Winter,Desert Resort,157,Grass / cave,10,52,55
+256,Combusken,Winter,Desert Resort,158,Grass / cave,10,55,58
+257,Blaziken,Winter,Victory Road,592,Grass / cave,1,58,61
+258,Mudkip,Winter,Virbank City,448,Fishing,1,52,55
+259,Marshtomp,Winter,Route 22,474,Surf,4,55,58
+260,Swampert,Winter,Undella Bay,240,Fishing,1,58,61
+261,Poochyena,Winter,Giant Chasm,234,Grass / cave,4,50,53
+262,Mightyena,Winter,Giant Chasm,230,Grass / cave,4,55,58
+263,Zigzagoon,Winter,Route 2,319,Grass / cave,1,51,54
+264,Linoone,Winter,Route 5,329,Grass / cave,1,55,58
+265,Wurmple,Winter,Mistralton Cave,333,Grass / cave,1,49,52
+266,Silcoon,Winter,Route 11,365,Grass / cave,1,50,53
+267,Beautifly,Winter,Route 20,446,Grass / cave,1,54,57
+268,Cascoon,Winter,Pinwheel Forest,155,Grass / cave,4,50,53
+269,Dustox,Winter,Castelia Sewers,497,Grass / cave,4,54,57
+270,Lotad,Winter,Pinwheel Forest,155,Fishing,4,50,53
+271,Lombre,Winter,Route 6,331,Fishing,4,53,56
+272,Ludicolo,Winter,Pinwheel Forest,155,Fishing,5,57,60
+273,Seedot,Winter,Route 15,378,Grass / cave,1,50,53
+274,Nuzleaf,Winter,Giant Chasm,230,Grass / cave,5,53,56
+275,Shiftry,Winter,Giant Chasm,232,Grass / cave,4,57,60
+276,Taillow,Winter,Route 14,374,Grass / cave,1,51,54
+277,Swellow,Winter,Abundant Shrine,376,Grass / cave,1,55,58
+278,Wingull,Winter,Village Bridge,255,Fishing,4,51,54
+279,Pelipper,Winter,Giant Chasm,230,Grass / cave,20,45,45
+280,Ralts,Winter,Victory Road,594,Grass / cave,1,49,52
+281,Kirlia,Winter,Victory Road,596,Grass / cave,1,51,54
+282,Gardevoir,Winter,Mistralton Cave,334,Grass / cave,1,57,60
+283,Surskit,Winter,Pinwheel Forest,155,Surf,4,51,54
+284,Masquerain,Winter,Guidance Chamber,335,Grass / cave,1,55,58
+285,Shroomish,Winter,Dragonspiral Tower,208,Grass / cave,1,52,55
+286,Breloom,Winter,Route 23,475,Grass / cave,5,56,59
+287,Slakoth,Winter,Route 16,383,Grass / cave,1,52,55
+288,Vigoroth,Winter,Pinwheel Forest,155,Grass / cave,15,55,57
+289,Slaking,Winter,Route 19,437,Grass / cave,1,61,64
+290,Nincada,Winter,Clay Tunnel,506,Grass / cave,5,51,54
+291,Ninjask,Winter,Celestial Tower,340,Grass / cave,1,56,59
+292,Shedinja,Winter,Celestial Tower,339,Grass / cave,1,50,53
+293,Whismur,Winter,Celestial Tower,341,Grass / cave,1,51,54
+294,Loudred,Winter,Celestial Tower,342,Grass / cave,1,54,57
+295,Exploud,Winter,Castelia City,500,Grass / cave,4,57,60
+296,Makuhita,Winter,Floccesy Ranch,445,Grass / cave,5,50,53
+297,Hariyama,Winter,Pinwheel Forest,154,Grass / cave,10,56,59
+298,Azurill,Winter,Floccesy Ranch,444,Surf,30,5,15
+299,Nosepass,Winter,Chargestone Cave,195,Grass / cave,10,27,27
+300,Skitty,Winter,Castelia City,500,Grass / cave,5,16,16
+301,Delcatty,Winter,Dragonspiral Tower,205,Grass / cave,4,54,57
+302,Sableye,Winter,Celestial Tower,339,Grass / cave,4,54,57
+303,Mawile,Winter,P2 Laboratory,238,Grass / cave,1,54,57
+304,Aron,Winter,Mistralton Cave,334,Grass / cave,15,29,30
+305,Lairon,Winter,Clay Tunnel,506,Grass / cave,10,55,55
+306,Aggron,Winter,Twist Mountain,200,Grass / cave,5,58,61
+307,Meditite,Winter,Relic Passage,503,Grass / cave,4,52,55
+308,Medicham,Winter,Relic Passage,504,Grass / cave,4,55,58
+309,Electrike,Winter,P2 Laboratory,238,Grass / cave,4,52,55
+310,Manectric,Winter,Chargestone Cave,195,Grass / cave,10,56,59
+311,Plusle,Winter,Chargestone Cave,196,Grass / cave,10,55,58
+312,Minun,Winter,Chargestone Cave,197,Grass / cave,10,55,58
+313,Volbeat,Winter,Seaside Cave,516,Grass / cave,4,55,58
+314,Illumise,Winter,Mistralton Cave,333,Grass / cave,4,55,58
+315,Roselia,Winter,Route 12,368,Grass / cave,20,35,35
+316,Gulpin,Winter,Castelia Sewers,498,Grass / cave,4,52,55
+317,Swalot,Winter,Castelia Sewers,499,Grass / cave,4,56,59
+318,Carvanha,Winter,Village Bridge,255,Fishing,60,40,60
+319,Sharpedo,Winter,Seaside Cave,515,Fishing,1,56,59
+320,Wailmer,Winter,Route 1,317,Fishing,1,55,58
+321,Wailord,Winter,Route 18,387,Fishing,1,57,60
+322,Numel,Winter,Reversal Mountain,461,Grass / cave,20,31,31
+323,Camerupt,Winter,Reversal Mountain,461,Grass / cave,4,33,33
+324,Torkoal,Winter,Virbank Complex,456,Grass / cave,4,56,59
+325,Spoink,Winter,Reversal Mountain,461,Grass / cave,1,31,31
+326,Grumpig,Winter,Reversal Mountain,461,Grass / cave,5,33,33
+327,Spinda,Winter,Dragonspiral Tower,206,Grass / cave,4,54,57
+328,Trapinch,Winter,Reversal Mountain,461,Grass / cave,10,32,32
+329,Vibrava,Winter,Dragonspiral Tower,207,Grass / cave,4,53,56
+330,Flygon,Winter,Dragonspiral Tower,208,Grass / cave,4,58,61
+331,Cacnea,Winter,Victory Road,588,Grass / cave,4,53,56
+332,Cacturne,Winter,Giant Chasm,232,Grass / cave,5,56,59
+333,Swablu,Winter,Route 14,374,Grass / cave,20,33,33
+334,Altaria,Winter,Victory Road,589,Grass / cave,10,49,49
+335,Zangoose,Winter,Village Bridge,255,Grass / cave,10,37,37
+336,Seviper,Winter,Village Bridge,255,Grass / cave,10,37,37
+337,Lunatone,Winter,Giant Chasm,230,Grass / cave,10,45,45
+338,Solrock,Winter,Giant Chasm,230,Grass / cave,10,46,46
+339,Barboach,Winter,Route 17,423,Fishing,1,52,55
+340,Whiscash,Winter,Route 21,463,Fishing,1,56,59
+341,Corphish,Winter,Striaton City,6,Surf,30,45,60
+342,Crawdaunt,Winter,Striaton City,6,Fishing,4,56,59
+343,Baltoy,Winter,Clay Tunnel,507,Grass / cave,5,52,55
+344,Claydol,Winter,Clay Tunnel,508,Grass / cave,5,57,60
+345,Lileep,Winter,Wellspring Cave,325,Grass / cave,1,53,56
+346,Cradily,Winter,Wellspring Cave,325,Grass / cave,1,57,60
+347,Anorith,Winter,Twist Mountain,201,Grass / cave,5,53,56
+348,Armaldo,Winter,Twist Mountain,202,Grass / cave,5,57,60
+349,Feebas,Winter,Route 1,317,Fishing,4,50,70
+350,Milotic,Winter,Humilau City,465,Surf,4,58,61
+351,Castform,Winter,Giant Chasm,233,Grass / cave,4,55,58
+352,Kecleon,Winter,Victory Road,587,Grass / cave,4,56,59
+353,Shuppet,Winter,Celestial Tower,340,Grass / cave,4,52,55
+354,Banette,Winter,Victory Road,587,Grass / cave,65,47,50
+355,Duskull,Winter,Celestial Tower,341,Grass / cave,4,52,55
+356,Dusclops,Winter,Celestial Tower,342,Grass / cave,4,56,59
+357,Tropius,Winter,Route 18,387,Grass / cave,10,58,58
+358,Chimecho,Winter,Dreamyard,152,Grass / cave,10,55,58
+359,Absol,Winter,Route 13,370,Grass / cave,10,35,35
+360,Wynaut,Winter,Victory Road,594,Grass / cave,4,51,54
+361,Snorunt,Winter,Twist Mountain,203,Grass / cave,5,52,55
+362,Glalie,Winter,Giant Chasm,231,Grass / cave,5,57,60
+363,Spheal,Winter,Undella Bay,240,Surf,30,25,40
+364,Sealeo,Winter,Floccesy Ranch,445,Surf,4,55,58
+365,Walrein,Winter,Floccesy Ranch,444,Fishing,4,58,61
+366,Clamperl,Winter,Route 3,321,Fishing,4,53,56
+367,Huntail,Winter,Route 11,365,Fishing,4,57,60
+368,Gorebyss,Winter,Route 14,374,Fishing,4,57,60
+369,Relicanth,Winter,Wellspring Cave,324,Surf,4,57,60
+370,Luvdisc,Winter,Undella Town,412,Fishing,69,40,70
+371,Bagon,Winter,Dragonspiral Tower,207,Grass / cave,4,52,55
+372,Shelgon,Winter,Dragonspiral Tower,208,Grass / cave,4,55,58
+373,Salamence,Winter,Dragonspiral Tower,206,Grass / cave,5,60,63
+374,Beldum,Winter,Mistralton Cave,334,Grass / cave,4,52,55
+375,Metang,Winter,Giant Chasm,232,Grass / cave,5,45,45
+376,Metagross,Winter,Guidance Chamber,335,Grass / cave,4,60,63
+377,Regirock,Winter,Wellspring Cave,324,Grass / cave,1,59,62
+378,Regice,Winter,Giant Chasm,233,Grass / cave,5,59,62
+379,Registeel,Winter,P2 Laboratory,238,Grass / cave,4,59,62
+380,Latias,Winter,Giant Chasm,234,Grass / cave,5,60,63
+381,Latios,Winter,Giant Chasm,234,Grass / cave,5,60,63
+382,Kyogre,Winter,Abundant Shrine,376,Fishing,4,61,64
+383,Groudon,Winter,Clay Tunnel,506,Grass / cave,5,61,64
+384,Rayquaza,Winter,Dragonspiral Tower,206,Grass / cave,5,62,65
+385,Jirachi,Winter,Abundant Shrine,376,Grass / cave,1,60,63
+386,Deoxys,Winter,Victory Road,596,Grass / cave,4,60,63
+387,Turtwig,Winter,Victory Road,593,Grass / cave,4,52,55
+388,Grotle,Winter,Route 12,368,Grass / cave,4,55,58
+389,Torterra,Winter,Clay Tunnel,507,Grass / cave,5,58,61
+390,Chimchar,Winter,Desert Resort,157,Grass / cave,10,52,55
+391,Monferno,Winter,Victory Road,592,Grass / cave,4,55,58
+392,Infernape,Winter,Virbank Complex,457,Grass / cave,10,58,61
+393,Piplup,Winter,Route 19,437,Fishing,4,52,55
+394,Prinplup,Winter,Route 20,446,Fishing,4,55,58
+395,Empoleon,Winter,Virbank Complex,456,Surf,1,58,61
+396,Starly,Winter,Village Bridge,255,Grass / cave,4,51,54
+397,Staravia,Winter,Route 13,370,Grass / cave,4,53,56
+398,Staraptor,Winter,Victory Road,589,Grass / cave,4,56,59
+399,Bidoof,Winter,Victory Road,590,Grass / cave,4,51,54
+400,Bibarel,Winter,Undella Town,412,Surf,4,55,58
+401,Kricketot,Winter,Route 3,321,Grass / cave,1,49,52
+402,Kricketune,Winter,Route 18,387,Grass / cave,1,54,57
+403,Shinx,Winter,Chargestone Cave,195,Grass / cave,10,51,54
+404,Luxio,Winter,Chargestone Cave,196,Grass / cave,10,54,57
+405,Luxray,Winter,Chargestone Cave,197,Grass / cave,10,58,61
+406,Budew,Winter,Castelia Sewers,495,Grass / cave,5,52,55
+407,Roserade,Winter,Castelia Sewers,499,Grass / cave,5,57,60
+408,Cranidos,Winter,Clay Tunnel,508,Grass / cave,5,53,56
+409,Rampardos,Winter,Wellspring Cave,324,Grass / cave,1,57,60
+410,Shieldon,Winter,Clay Tunnel,506,Grass / cave,10,53,56
+411,Bastiodon,Winter,Clay Tunnel,507,Grass / cave,10,57,60
+412,Burmy,Winter,Route 11,365,Grass / cave,1,50,53
+413,Wormadam,Winter,Route 6,331,Grass / cave,10,55,58
+414,Mothim,Winter,Route 20,446,Grass / cave,1,55,58
+415,Combee,Winter,Route 12,368,Grass / cave,20,35,35
+416,Vespiquen,Winter,Victory Road,595,Grass / cave,4,56,59
+417,Pachirisu,Winter,Seaside Cave,515,Grass / cave,1,55,58
+418,Buizel,Winter,Route 11,365,Surf,30,25,40
+419,Floatzel,Winter,Floccesy Ranch,445,Fishing,4,57,60
+420,Cherubi,Winter,Route 15,378,Grass / cave,4,51,54
+421,Cherrim,Winter,Route 22,474,Grass / cave,1,56,59
+422,Shellos,Winter,Route 13,370,Surf,4,53,56
+423,Gastrodon,Winter,Undella Bay,240,Fishing,4,56,59
+424,Ambipom,Winter,Victory Road,591,Grass / cave,4,57,60
+425,Drifloon,Winter,Celestial Tower,340,Grass / cave,4,53,56
+426,Drifblim,Winter,Route 13,370,Grass / cave,15,34,35
+427,Buneary,Winter,Castelia City,500,Grass / cave,10,15,15
+428,Lopunny,Winter,Route 2,319,Grass / cave,4,57,60
+429,Mismagius,Winter,Celestial Tower,339,Grass / cave,4,57,60
+430,Honchkrow,Winter,Route 9,348,Grass / cave,5,57,60
+431,Glameow,Winter,Route 5,329,Grass / cave,4,52,55
+432,Purugly,Winter,Route 16,383,Grass / cave,4,56,59
+433,Chingling,Winter,Relic Passage,505,Grass / cave,4,52,55
+434,Stunky,Winter,Route 9,348,Grass / cave,10,53,56
+435,Skuntank,Winter,Giant Chasm,231,Grass / cave,5,56,59
+436,Bronzor,Winter,Abundant Shrine,376,Grass / cave,10,32,32
+437,Bronzong,Winter,Mistralton Cave,333,Grass / cave,4,57,60
+438,Bonsly,Winter,Wellspring Cave,325,Grass / cave,4,52,55
+439,Mime Jr.,Winter,Route 1,317,Grass / cave,1,52,55
+440,Happiny,Winter,Route 14,374,Grass / cave,1,50,53
+441,Chatot,Winter,Village Bridge,255,Grass / cave,4,55,58
+442,Spiritomb,Winter,Celestial Tower,341,Grass / cave,4,57,60
+443,Gible,Winter,Dragonspiral Tower,207,Grass / cave,5,52,55
+444,Gabite,Winter,Dragonspiral Tower,208,Grass / cave,5,55,58
+445,Garchomp,Winter,Dragonspiral Tower,205,Grass / cave,4,60,63
+446,Munchlax,Winter,Route 19,437,Grass / cave,1,54,57
+447,Riolu,Winter,Floccesy Ranch,445,Grass / cave,4,5,5
+448,Lucario,Winter,P2 Laboratory,238,Grass / cave,5,58,61
+449,Hippopotas,Winter,Clay Tunnel,508,Grass / cave,10,53,56
+450,Hippowdon,Winter,Victory Road,587,Grass / cave,4,58,61
+451,Skorupi,Winter,Reversal Mountain,461,Grass / cave,20,31,31
+452,Drapion,Winter,Castelia Sewers,496,Grass / cave,5,57,60
+453,Croagunk,Winter,Castelia Sewers,497,Grass / cave,5,52,55
+454,Toxicroak,Winter,Pinwheel Forest,154,Grass / cave,10,55,55
+455,Carnivine,Winter,Route 18,387,Grass / cave,10,58,58
+456,Finneon,Winter,Route 18,387,Fishing,65,50,70
+457,Lumineon,Winter,Route 22,474,Fishing,4,56,59
+458,Mantyke,Winter,Route 21,463,Surf,30,30,45
+459,Snover,Winter,Giant Chasm,230,Grass / cave,10,53,56
+460,Abomasnow,Winter,Giant Chasm,232,Grass / cave,10,57,60
+461,Weavile,Winter,Giant Chasm,233,Grass / cave,10,57,60
+462,Magnezone,Winter,Virbank Complex,456,Grass / cave,5,58,61
+463,Lickilicky,Winter,Victory Road,589,Grass / cave,4,57,60
+464,Rhyperior,Winter,Victory Road,590,Grass / cave,4,58,61
+465,Tangrowth,Winter,Pinwheel Forest,155,Grass / cave,4,58,61
+466,Electivire,Winter,Seaside Cave,515,Grass / cave,1,58,61
+467,Magmortar,Winter,Victory Road,592,Grass / cave,4,58,61
+468,Togekiss,Winter,Route 13,370,Grass / cave,4,58,61
+469,Yanmega,Winter,Victory Road,595,Grass / cave,4,57,60
+470,Leafeon,Winter,Victory Road,588,Grass / cave,4,58,61
+471,Glaceon,Winter,Route 22,474,Grass / cave,1,58,61
+472,Gliscor,Winter,Route 15,378,Grass / cave,4,57,60
+473,Mamoswine,Winter,Victory Road,591,Grass / cave,4,58,61
+474,Porygon-Z,Winter,Route 2,319,Grass / cave,4,58,61
+475,Gallade,Winter,Relic Passage,503,Grass / cave,5,57,60
+476,Probopass,Winter,Wellspring Cave,324,Grass / cave,4,58,61
+477,Dusknoir,Winter,Celestial Tower,342,Grass / cave,4,58,61
+478,Froslass,Winter,Celestial Tower,339,Grass / cave,5,57,60
+479,Rotom,Winter,Celestial Tower,340,Grass / cave,5,56,59
+480,Uxie,Winter,Victory Road,594,Grass / cave,4,59,62
+481,Mesprit,Winter,Victory Road,596,Grass / cave,4,59,62
+482,Azelf,Winter,Route 5,329,Grass / cave,4,59,62
+483,Dialga,Winter,Dragonspiral Tower,205,Grass / cave,5,62,65
+484,Palkia,Winter,Route 23,475,Fishing,5,62,65
+485,Heatran,Winter,Abundant Shrine,376,Grass / cave,4,60,63
+486,Regigigas,Winter,Route 12,368,Grass / cave,4,61,64
+487,Giratina,Winter,Celestial Tower,341,Grass / cave,5,62,65
+488,Cresselia,Winter,Mistralton Cave,334,Grass / cave,4,60,63
+489,Phione,Winter,Striaton City,6,Surf,4,57,60
+490,Manaphy,Winter,Virbank City,448,Surf,4,60,63
+491,Darkrai,Winter,Victory Road,593,Grass / cave,4,60,63
+492,Shaymin,Winter,Castelia City,500,Grass / cave,5,60,63
+493,Arceus,Winter,Route 16,383,Grass / cave,4,63,66
+494,Victini,Winter,Guidance Chamber,335,Grass / cave,4,60,63
+495,Snivy,Winter,Route 18,387,Grass / cave,1,52,55
+496,Servine,Winter,Route 11,365,Grass / cave,4,55,58
+497,Serperior,Winter,Route 20,446,Grass / cave,4,58,61
+498,Tepig,Winter,Relic Passage,504,Grass / cave,5,52,55
+499,Pignite,Winter,Floccesy Ranch,445,Grass / cave,10,55,58
+500,Emboar,Winter,Relic Passage,505,Grass / cave,5,58,61
+501,Oshawott,Winter,Humilau City,465,Fishing,4,52,55
+502,Dewott,Winter,P2 Laboratory,238,Surf,4,55,58
+503,Samurott,Winter,Floccesy Ranch,444,Surf,4,58,61
+504,Patrat,Winter,Route 19,437,Grass / cave,45,2,4
+505,Watchog,Winter,Route 1,317,Grass / cave,35,56,59
+506,Lillipup,Winter,Floccesy Ranch,445,Grass / cave,20,4,4
+507,Herdier,Winter,Route 1,317,Grass / cave,45,56,59
+508,Stoutland,Winter,Route 1,317,Grass / cave,1,57,60
+509,Purrloin,Winter,Route 19,437,Grass / cave,45,2,4
+510,Liepard,Winter,Dreamyard,152,Grass / cave,20,56,56
+511,Pansage,Winter,Pinwheel Forest,155,Grass / cave,5,52,55
+512,Simisage,Winter,Seaside Cave,516,Grass / cave,5,57,60
+513,Pansear,Winter,Route 3,321,Grass / cave,1,52,55
+514,Simisear,Winter,Virbank Complex,456,Grass / cave,10,57,60
+515,Panpour,Winter,Seaside Cave,515,Surf,4,52,55
+516,Simipour,Winter,Village Bridge,255,Surf,4,57,60
+517,Munna,Winter,Dreamyard,152,Grass / cave,10,57,57
+518,Musharna,Winter,Victory Road,594,Grass / cave,5,57,60
+519,Pidove,Winter,Route 20,446,Grass / cave,25,2,4
+520,Tranquill,Winter,Victory Road,589,Grass / cave,75,47,50
+521,Unfezant,Winter,Route 14,374,Grass / cave,4,56,59
+522,Blitzle,Winter,P2 Laboratory,238,Grass / cave,5,52,55
+523,Zebstrika,Winter,Route 3,321,Grass / cave,19,56,58
+524,Roggenrola,Winter,Relic Passage,503,Grass / cave,30,16,17
+525,Boldore,Winter,Victory Road,590,Grass / cave,75,41,44
+526,Gigalith,Winter,Wellspring Cave,325,Grass / cave,4,57,60
+527,Woobat,Winter,Wellspring Cave,324,Grass / cave,40,55,57
+528,Swoobat,Winter,Route 13,370,Grass / cave,5,55,58
+529,Drilbur,Winter,Victory Road,587,Grass / cave,5,53,56
+530,Excadrill,Winter,Victory Road,590,Grass / cave,5,57,60
+531,Audino,Winter,Route 19,437,Grass / cave,4,56,59
+532,Timburr,Winter,Relic Passage,503,Grass / cave,10,17,17
+533,Gurdurr,Winter,Victory Road,592,Grass / cave,65,47,50
+534,Conkeldurr,Winter,Victory Road,592,Grass / cave,5,57,60
+535,Tympole,Winter,Route 1,317,Surf,4,52,55
+536,Palpitoad,Winter,Pinwheel Forest,154,Grass / cave,20,54,54
+537,Seismitoad,Winter,Route 17,423,Fishing,4,57,60
+538,Throh,Winter,Victory Road,592,Grass / cave,20,48,49
+539,Sawk,Winter,Route 23,475,Grass / cave,20,48,48
+540,Sewaddle,Winter,Route 20,446,Grass / cave,35,2,4
+541,Swadloon,Winter,Pinwheel Forest,155,Grass / cave,20,54,54
+542,Leavanny,Winter,Route 12,368,Grass / cave,5,57,60
+543,Venipede,Winter,Lostlorn Forest,385,Grass / cave,10,21,21
+544,Whirlipede,Winter,Pinwheel Forest,155,Grass / cave,10,55,55
+545,Scolipede,Winter,Castelia Sewers,498,Grass / cave,5,56,59
+546,Cottonee,Winter,Pinwheel Forest,155,Grass / cave,20,54,54
+547,Whimsicott,Winter,Victory Road,588,Grass / cave,5,57,60
+548,Petilil,Winter,Victory Road,588,Grass / cave,45,47,50
+549,Lilligant,Winter,Victory Road,593,Grass / cave,5,57,60
+550,Basculin,Winter,Route 19,437,Surf,99,5,15
+551,Sandile,Winter,Desert Resort,157,Grass / cave,20,18,18
+552,Krokorok,Winter,Route 15,378,Grass / cave,5,53,56
+553,Krookodile,Winter,Victory Road,591,Grass / cave,5,57,60
+554,Darumaka,Winter,Desert Resort,157,Grass / cave,20,18,18
+555,Darmanitan,Winter,Relic Passage,505,Grass / cave,5,57,60
+556,Maractus,Winter,Desert Resort,157,Grass / cave,10,19,19
+557,Dwebble,Winter,Desert Resort,157,Grass / cave,5,19,19
+558,Crustle,Winter,Route 18,387,Grass / cave,20,57,57
+559,Scraggy,Winter,Desert Resort,157,Grass / cave,10,19,19
+560,Scrafty,Winter,Route 18,387,Grass / cave,29,57,58
+561,Sigilyph,Winter,Desert Resort,158,Grass / cave,10,19,19
+562,Yamask,Winter,Celestial Tower,342,Grass / cave,5,52,55
+563,Cofagrigus,Winter,Celestial Tower,339,Grass / cave,5,57,60
+564,Tirtouga,Winter,Wellspring Cave,325,Surf,4,53,56
+565,Carracosta,Winter,Wellspring Cave,324,Surf,5,57,60
+566,Archen,Winter,Wellspring Cave,324,Grass / cave,4,55,58
+567,Archeops,Winter,Wellspring Cave,325,Grass / cave,5,59,62
+568,Trubbish,Winter,Route 5,329,Grass / cave,10,21,21
+569,Garbodor,Winter,Route 9,348,Grass / cave,10,38,38
+570,Zorua,Winter,Victory Road,596,Grass / cave,5,53,56
+571,Zoroark,Winter,Route 2,319,Grass / cave,5,57,60
+572,Minccino,Winter,Route 5,329,Grass / cave,30,21,23
+573,Cinccino,Winter,Victory Road,589,Grass / cave,5,56,59
+574,Gothita,Winter,Route 5,329,Grass / cave,20,21,21
+575,Gothorita,Winter,Route 9,348,Grass / cave,20,37,37
+576,Gothitelle,Winter,Route 5,329,Grass / cave,5,57,60
+577,Solosis,Winter,Strange House,462,Grass / cave,20,31,31
+578,Duosion,Winter,Route 9,348,Grass / cave,4,39,39
+579,Reuniclus,Winter,Mistralton Cave,333,Grass / cave,5,57,60
+580,Ducklett,Winter,Village Bridge,255,Fishing,5,52,55
+581,Swanna,Winter,Route 13,370,Fishing,5,56,59
+582,Vanillite,Winter,Route 22,474,Grass / cave,4,52,55
+583,Vanillish,Winter,Dragonspiral Tower,205,Grass / cave,20,55,55
+584,Vanilluxe,Winter,Victory Road,595,Grass / cave,5,58,61
+585,Deerling,Winter,Route 6,331,Grass / cave,20,23,23
+586,Sawsbuck,Winter,Dragonspiral Tower,205,Grass / cave,30,55,57
+587,Emolga,Winter,Seaside Cave,515,Grass / cave,4,55,58
+588,Karrablast,Winter,Route 6,331,Grass / cave,20,23,23
+589,Escavalier,Winter,Guidance Chamber,335,Grass / cave,5,57,60
+590,Foongus,Winter,Route 6,331,Grass / cave,10,26,26
+591,Amoonguss,Winter,Route 22,474,Grass / cave,20,39,39
+592,Frillish,Winter,Route 17,423,Surf,99,45,60
+593,Jellicent,Winter,Route 18,387,Surf,4,57,60
+594,Alomomola,Winter,Route 3,321,Surf,4,56,59
+595,Joltik,Winter,Chargestone Cave,195,Grass / cave,20,25,25
+596,Galvantula,Winter,Route 3,321,Grass / cave,4,56,59
+597,Ferroseed,Winter,Chargestone Cave,195,Grass / cave,10,26,26
+598,Ferrothorn,Winter,Abundant Shrine,376,Grass / cave,5,57,60
+599,Klink,Winter,Chargestone Cave,195,Grass / cave,20,26,26
+600,Klang,Winter,P2 Laboratory,238,Grass / cave,10,57,57
+601,Klinklang,Winter,Mistralton Cave,334,Grass / cave,5,58,61
+602,Tynamo,Winter,Seaside Cave,515,Grass / cave,5,37,37
+603,Eelektrik,Winter,Seaside Cave,516,Grass / cave,5,42,42
+604,Eelektross,Winter,Seaside Cave,516,Grass / cave,10,57,60
+605,Elgyem,Winter,Celestial Tower,342,Grass / cave,30,30,31
+606,Beheeyem,Winter,Route 16,383,Grass / cave,5,57,60
+607,Litwick,Winter,Celestial Tower,339,Grass / cave,80,27,29
+608,Lampent,Winter,Celestial Tower,342,Grass / cave,5,54,57
+609,Chandelure,Winter,Celestial Tower,340,Grass / cave,10,58,61
+610,Axew,Winter,Mistralton Cave,333,Grass / cave,10,29,29
+611,Fraxure,Winter,Dragonspiral Tower,205,Grass / cave,5,55,58
+612,Haxorus,Winter,Dragonspiral Tower,207,Grass / cave,5,58,61
+613,Cubchoo,Winter,Route 7,337,Grass / cave,20,30,30
+614,Beartic,Winter,Twist Mountain,200,Grass / cave,20,54,54
+615,Cryogonal,Winter,Twist Mountain,200,Grass / cave,10,56,56
+616,Shelmet,Winter,Route 6,331,Grass / cave,5,23,23
+617,Accelgor,Winter,Route 18,387,Grass / cave,4,57,60
+618,Stunfisk,Winter,Relic Passage,503,Grass / cave,10,56,59
+619,Mienfoo,Winter,Route 14,374,Grass / cave,20,33,35
+620,Mienshao,Winter,Dragonspiral Tower,207,Grass / cave,20,55,55
+621,Druddigon,Winter,Victory Road,593,Grass / cave,75,47,50
+622,Golett,Winter,Celestial Tower,341,Grass / cave,10,52,55
+623,Golurk,Winter,Dragonspiral Tower,208,Grass / cave,80,55,57
+624,Pawniard,Winter,Route 9,348,Grass / cave,10,38,38
+625,Bisharp,Winter,Route 19,437,Grass / cave,4,57,60
+626,Bouffalant,Winter,Route 23,475,Grass / cave,20,49,49
+627,Rufflet,Winter,Route 23,475,Grass / cave,1,47,47
+628,Braviary,Winter,Village Bridge,255,Grass / cave,5,57,60
+629,Vullaby,Winter,Route 23,475,Grass / cave,4,47,47
+630,Mandibuzz,Winter,Route 14,374,Grass / cave,5,57,60
+631,Heatmor,Winter,Twist Mountain,200,Grass / cave,5,56,56
+632,Durant,Winter,Clay Tunnel,506,Grass / cave,20,54,54
+633,Deino,Winter,Dragonspiral Tower,208,Grass / cave,5,52,55
+634,Zweilous,Winter,Victory Road,593,Grass / cave,10,49,49
+635,Hydreigon,Winter,Dragonspiral Tower,206,Grass / cave,10,60,63
+636,Larvesta,Winter,Relic Passage,504,Grass / cave,10,54,57
+637,Volcarona,Winter,Guidance Chamber,335,Grass / cave,5,58,61
+638,Cobalion,Winter,Route 1,317,Grass / cave,4,59,62
+639,Terrakion,Winter,Wellspring Cave,324,Grass / cave,5,59,62
+640,Virizion,Winter,Castelia City,500,Grass / cave,10,59,62
+641,Tornadus,Winter,Route 11,365,Grass / cave,4,59,62
+642,Thundurus,Winter,Virbank Complex,456,Grass / cave,10,59,62
+643,Reshiram,Winter,Dragonspiral Tower,205,Grass / cave,10,62,65
+644,Zekrom,Winter,Dragonspiral Tower,206,Grass / cave,10,62,65
+645,Landorus,Winter,Relic Passage,503,Grass / cave,10,60,63
+646,Kyurem,Winter,Dragonspiral Tower,207,Grass / cave,10,61,64
+647,Keldeo,Winter,Route 23,475,Surf,4,59,62
+648,Meloetta,Winter,Route 1,317,Grass / cave,4,60,63
+649,Genesect,Winter,Mistralton Cave,333,Grass / cave,5,60,63

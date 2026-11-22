@@ -35,17 +35,17 @@ The focus stays on Gen 5 and the original Black 2 / White 2 adventure. Custom ba
 
 | Your game | Current patch |
 | :--- | :--- |
-| Pokémon Black 2 | [Following Black 2 · v0.9.99](https://github.com/omgkai/Following-Black-White-2/releases/download/v0.9.99/Following-Black-2-v0.9.99.xdelta) |
-| Pokémon White 2 | [Following White 2 · v0.9.99](https://github.com/omgkai/Following-Black-White-2/releases/download/v0.9.99/Following-White-2-v0.9.99.xdelta) |
+| Pokémon Black 2 | [Following Black 2 · v1.0.0](https://github.com/omgkai/Following-Black-White-2/releases/download/v1.0.0/Following-Black-2-v1.0.0.xdelta) |
+| Pokémon White 2 | [Following White 2 · v1.0.0](https://github.com/omgkai/Following-Black-White-2/releases/download/v1.0.0/Following-White-2-v1.0.0.xdelta) |
 
-> **v0.9.99 hotfix:** fixes the mandatory Pokéstar Studios movie and Name Rater crashes in both games, adds party-menu nicknaming and catch EXP, and corrects wild shiny odds. The supported original ROMs are unchanged from v0.9.98. Keep your battery save and read the [patching guide](PATCHING.md) before updating.
+> **v1.0.0 is out:** level-up trade evolutions, optional Full Dex encounters, corrected Zoroark/Therian followers, Entralink and saved-setting fixes, plus faster battle animations. [All changes and evolution levels →](CHANGELOG.md)
 
 These downloads are patches. Bring your matching original English **DSi Enhanced** ROM and apply the patch for that game. [Patching instructions and supported source hashes →](PATCHING.md)
 
 
-## Upcoming update · v0.9.102 (testing)
+## Evolutions and Full Dex
 
-The next update adds [level-up replacements for trade evolutions](docs/v0.9.102/TRADE-EVOLUTIONS.md) and an optional [Full Dex encounter mode](docs/v0.9.102/FULL-DEX.md), alongside follower and saved-option fixes. These guides describe the testing candidate; the current public downloads above remain v0.9.99.
+[Trade-evolution requirements](docs/v1.0.0/TRADE-EVOLUTIONS.md) list every new level. [Full Dex](docs/v1.0.0/FULL-DEX.md) merges version encounters before the credits and adds all 649 species afterward, with location tables for each season. Enable it in Options, confirm and save; it is OFF by default.
 
 ## Your first steps
 
@@ -62,7 +62,7 @@ The [changelog](CHANGELOG.md) records releases, and each [GitHub Release](https:
 
 If something goes wrong, [open an issue](https://github.com/omgkai/Following-Black-White-2/issues/new) with your game, patch version, emulator/device, steps to reproduce, and whether you started normally or loaded an older state. Screenshots or recordings are useful. Do not upload ROM files or personal saves to a public issue.
 
-This is an as-is community release. Kai played through the main campaign during development; v0.9.99 also has targeted paired melonDS and native regression checks. Kai confirmed both v0.9.99 prepatched builds work before publication. Every hardware, battle effect and camera combination has not been verified. Kai confirmed the Summary fix on DSi hardware in DS mode and reported DSi mode working after first booting in DS mode. Hardware coverage is not exhaustive; compatibility with other hacks remains unverified. Some transport sequences recall the follower where the original scene supports only one actor.
+Kai confirmed the final v1.0.0 build working before publication. The main campaign was played through during development; v0.9.99 also has targeted paired melonDS and native regression checks. Kai confirmed both v0.9.99 prepatched builds work before publication. Every hardware, battle effect and camera combination has not been verified. Kai confirmed the Summary fix on DSi hardware in DS mode and reported DSi mode working after first booting in DS mode. Hardware coverage is not exhaustive; compatibility with other hacks remains unverified. Some transport sequences recall the follower where the original scene supports only one actor.
 
 ## About the project
 
@@ -77,3 +77,4 @@ Pokémon and the original game artwork belong to their respective owners. This i
 [KeepSake](https://github.com/omgkai/KeepSake) · [Allure](https://github.com/omgkai/Allure)
 
 </div>
+

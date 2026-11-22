@@ -1,0 +1,650 @@
+dex,pokemon,season,area,zone,method,chance_percent,min_level,max_level
+1,Bulbasaur,Spring,Lostlorn Forest,385,Grass / cave,1,52,55
+2,Ivysaur,Spring,Pinwheel Forest,154,Grass / cave,1,55,58
+3,Venusaur,Spring,Castelia Sewers,495,Grass / cave,1,58,61
+4,Charmander,Spring,Desert Resort,157,Grass / cave,1,52,55
+5,Charmeleon,Spring,Desert Resort,158,Grass / cave,1,55,58
+6,Charizard,Spring,Reversal Mountain,461,Grass / cave,1,58,61
+7,Squirtle,Spring,Striaton City,6,Surf,1,52,55
+8,Wartortle,Spring,Virbank City,448,Surf,1,55,58
+9,Blastoise,Spring,Humilau City,465,Fishing,1,58,61
+10,Caterpie,Spring,Pinwheel Forest,154,Grass / cave,1,49,52
+11,Metapod,Spring,Lostlorn Forest,385,Grass / cave,4,50,53
+12,Butterfree,Spring,Route 7,337,Grass / cave,1,54,57
+13,Weedle,Spring,Castelia Sewers,496,Grass / cave,1,49,52
+14,Kakuna,Spring,Castelia Sewers,497,Grass / cave,1,50,53
+15,Beedrill,Spring,Castelia Sewers,498,Grass / cave,1,54,57
+16,Pidgey,Spring,Route 7,337,Grass / cave,1,51,54
+17,Pidgeotto,Spring,Route 7,337,Grass / cave,4,53,56
+18,Pidgeot,Spring,Route 7,337,Grass / cave,10,56,59
+19,Rattata,Spring,Castelia Sewers,495,Grass / cave,40,14,16
+20,Raticate,Spring,Dreamyard,152,Grass / cave,10,57,57
+21,Spearow,Spring,Castelia City,500,Grass / cave,1,51,54
+22,Fearow,Spring,Dreamyard,152,Grass / cave,1,56,59
+23,Ekans,Spring,Castelia Sewers,499,Grass / cave,1,52,55
+24,Arbok,Spring,Virbank Complex,457,Grass / cave,1,55,58
+25,Pikachu,Spring,Chargestone Cave,195,Grass / cave,1,52,55
+26,Raichu,Spring,Chargestone Cave,196,Grass / cave,1,56,59
+27,Sandshrew,Spring,Desert Resort,158,Grass / cave,10,19,19
+28,Sandslash,Spring,Route 15,378,Grass / cave,30,54,56
+29,Nidoran♀,Spring,Castelia Sewers,495,Grass / cave,1,51,54
+30,Nidorina,Spring,Castelia Sewers,496,Grass / cave,1,54,57
+31,Nidoqueen,Spring,Clay Tunnel,506,Grass / cave,1,57,60
+32,Nidoran♂,Spring,Castelia Sewers,497,Grass / cave,1,51,54
+33,Nidorino,Spring,Castelia Sewers,498,Grass / cave,1,54,57
+34,Nidoking,Spring,Clay Tunnel,507,Grass / cave,1,57,60
+35,Clefairy,Spring,Giant Chasm,232,Grass / cave,20,45,45
+36,Clefable,Spring,Dragonspiral Tower,205,Grass / cave,1,56,59
+37,Vulpix,Spring,Abundant Shrine,376,Grass / cave,10,34,34
+38,Ninetales,Spring,Desert Resort,157,Grass / cave,1,57,60
+39,Jigglypuff,Spring,Dreamyard,152,Grass / cave,10,57,57
+40,Wigglytuff,Spring,Dragonspiral Tower,206,Grass / cave,1,55,58
+41,Zubat,Spring,Castelia Sewers,495,Grass / cave,40,14,16
+42,Golbat,Spring,Celestial Tower,342,Grass / cave,20,33,33
+43,Oddish,Spring,Castelia Sewers,499,Grass / cave,1,53,56
+44,Gloom,Spring,Virbank Complex,457,Grass / cave,1,54,57
+45,Vileplume,Spring,Pinwheel Forest,154,Grass / cave,4,57,60
+46,Paras,Spring,Route 6,331,Grass / cave,1,52,55
+47,Parasect,Spring,Lostlorn Forest,385,Grass / cave,5,55,58
+48,Venonat,Spring,Castelia Sewers,496,Grass / cave,4,52,55
+49,Venomoth,Spring,Castelia Sewers,497,Grass / cave,4,56,59
+50,Diglett,Spring,Clay Tunnel,508,Grass / cave,1,51,54
+51,Dugtrio,Spring,Desert Resort,158,Grass / cave,1,55,58
+52,Meowth,Spring,Giant Chasm,230,Grass / cave,1,52,55
+53,Persian,Spring,Giant Chasm,231,Grass / cave,1,56,59
+54,Psyduck,Spring,Floccesy Ranch,445,Grass / cave,10,5,5
+55,Golduck,Spring,Village Bridge,255,Grass / cave,35,36,38
+56,Mankey,Spring,Floccesy Ranch,445,Grass / cave,1,52,55
+57,Primeape,Spring,Route 23,475,Grass / cave,1,56,59
+58,Growlithe,Spring,Virbank Complex,457,Grass / cave,10,11,11
+59,Arcanine,Spring,Reversal Mountain,461,Grass / cave,4,58,61
+60,Poliwag,Spring,Route 6,331,Fishing,65,40,70
+61,Poliwhirl,Spring,Pinwheel Forest,155,Surf,1,54,57
+62,Poliwrath,Spring,Floccesy Ranch,444,Surf,1,57,60
+63,Abra,Spring,Strange House,462,Grass / cave,4,52,55
+64,Kadabra,Spring,Dreamyard,152,Grass / cave,1,55,58
+65,Alakazam,Spring,Strange House,462,Grass / cave,5,57,60
+66,Machop,Spring,Pinwheel Forest,154,Grass / cave,4,52,55
+67,Machoke,Spring,Floccesy Ranch,445,Grass / cave,1,55,58
+68,Machamp,Spring,Twist Mountain,200,Grass / cave,1,57,60
+69,Bellsprout,Spring,Castelia Sewers,495,Grass / cave,4,52,55
+70,Weepinbell,Spring,Castelia Sewers,499,Grass / cave,4,54,57
+71,Victreebel,Spring,Virbank Complex,457,Grass / cave,4,57,60
+72,Tentacool,Spring,Virbank Complex,456,Fishing,1,53,56
+73,Tentacruel,Spring,Virbank Complex,456,Fishing,5,57,60
+74,Geodude,Spring,Twist Mountain,201,Grass / cave,1,52,55
+75,Graveler,Spring,Twist Mountain,202,Grass / cave,1,54,57
+76,Golem,Spring,Twist Mountain,203,Grass / cave,1,57,60
+77,Ponyta,Spring,Desert Resort,157,Grass / cave,4,55,58
+78,Rapidash,Spring,Desert Resort,158,Grass / cave,4,57,60
+79,Slowpoke,Spring,P2 Laboratory,238,Surf,1,52,55
+80,Slowbro,Spring,Undella Bay,240,Surf,1,57,60
+81,Magnemite,Spring,Virbank Complex,457,Grass / cave,20,10,10
+82,Magneton,Spring,P2 Laboratory,238,Grass / cave,10,57,57
+83,Farfetch'd,Spring,Giant Chasm,232,Grass / cave,1,53,56
+84,Doduo,Spring,Giant Chasm,233,Grass / cave,1,52,55
+85,Dodrio,Spring,Giant Chasm,234,Grass / cave,1,56,59
+86,Seel,Spring,Seaside Cave,515,Surf,30,25,40
+87,Dewgong,Spring,Floccesy Ranch,445,Surf,1,56,59
+88,Grimer,Spring,Castelia Sewers,495,Grass / cave,5,15,15
+89,Muk,Spring,Route 9,348,Grass / cave,5,40,40
+90,Shellder,Spring,Route 13,370,Fishing,30,40,60
+91,Cloyster,Spring,Seaside Cave,515,Surf,1,58,61
+92,Gastly,Spring,Celestial Tower,340,Grass / cave,1,52,55
+93,Haunter,Spring,Celestial Tower,341,Grass / cave,1,55,58
+94,Gengar,Spring,Celestial Tower,342,Grass / cave,1,57,60
+95,Onix,Spring,Victory Road,590,Grass / cave,10,43,43
+96,Drowzee,Spring,Dreamyard,152,Grass / cave,4,53,56
+97,Hypno,Spring,Strange House,462,Grass / cave,5,57,60
+98,Krabby,Spring,Virbank City,448,Fishing,30,40,60
+99,Kingler,Spring,Village Bridge,255,Surf,1,56,59
+100,Voltorb,Spring,Chargestone Cave,197,Grass / cave,1,53,56
+101,Electrode,Spring,Chargestone Cave,197,Grass / cave,1,57,60
+102,Exeggcute,Spring,Pinwheel Forest,155,Grass / cave,1,53,56
+103,Exeggutor,Spring,Pinwheel Forest,155,Grass / cave,1,58,61
+104,Cubone,Spring,Clay Tunnel,506,Grass / cave,1,53,56
+105,Marowak,Spring,Clay Tunnel,507,Grass / cave,1,55,58
+106,Hitmonlee,Spring,Dragonspiral Tower,207,Grass / cave,1,56,59
+107,Hitmonchan,Spring,Victory Road,592,Grass / cave,1,56,59
+108,Lickitung,Spring,Route 2,319,Grass / cave,10,58,58
+109,Koffing,Spring,Virbank Complex,457,Grass / cave,10,10,10
+110,Weezing,Spring,P2 Laboratory,238,Grass / cave,10,57,57
+111,Rhyhorn,Spring,Twist Mountain,200,Grass / cave,1,53,56
+112,Rhydon,Spring,Twist Mountain,201,Grass / cave,1,57,60
+113,Chansey,Spring,Victory Road,589,Grass / cave,1,56,59
+114,Tangela,Spring,Giant Chasm,230,Grass / cave,20,44,44
+115,Kangaskhan,Spring,Victory Road,595,Grass / cave,1,57,60
+116,Horsea,Spring,P2 Laboratory,238,Fishing,35,35,55
+117,Seadra,Spring,Route 1,317,Surf,1,56,59
+118,Goldeen,Spring,Striaton City,6,Fishing,65,40,70
+119,Seaking,Spring,Route 3,321,Surf,1,56,59
+120,Staryu,Spring,Route 13,370,Surf,30,25,40
+121,Starmie,Spring,Wellspring Cave,324,Surf,1,58,61
+122,Mr. Mime,Spring,Dreamyard,152,Grass / cave,4,56,59
+123,Scyther,Spring,Lostlorn Forest,385,Grass / cave,10,57,60
+124,Jynx,Spring,Twist Mountain,202,Grass / cave,1,56,59
+125,Electabuzz,Spring,Chargestone Cave,195,Grass / cave,4,57,60
+126,Magmar,Spring,Virbank Complex,456,Grass / cave,1,57,60
+127,Pinsir,Spring,Route 12,368,Grass / cave,5,38,38
+128,Tauros,Spring,Relic Passage,503,Grass / cave,1,57,60
+129,Magikarp,Spring,Wellspring Cave,325,Surf,1,50,53
+130,Gyarados,Spring,Route 13,370,Fishing,1,58,61
+131,Lapras,Spring,Route 6,331,Surf,1,58,61
+132,Ditto,Spring,Giant Chasm,232,Grass / cave,10,45,45
+133,Eevee,Spring,Castelia City,500,Grass / cave,4,18,18
+134,Vaporeon,Spring,Route 11,365,Surf,1,58,61
+135,Jolteon,Spring,Chargestone Cave,196,Grass / cave,4,58,61
+136,Flareon,Spring,Reversal Mountain,461,Grass / cave,10,58,61
+137,Porygon,Spring,Relic Passage,504,Grass / cave,1,54,57
+138,Omanyte,Spring,Wellspring Cave,324,Fishing,4,53,56
+139,Omastar,Spring,Wellspring Cave,325,Fishing,4,57,60
+140,Kabuto,Spring,Wellspring Cave,324,Fishing,5,53,56
+141,Kabutops,Spring,Wellspring Cave,325,Fishing,5,57,60
+142,Aerodactyl,Spring,Twist Mountain,203,Grass / cave,1,57,60
+143,Snorlax,Spring,Route 2,319,Grass / cave,1,58,61
+144,Articuno,Spring,Giant Chasm,230,Grass / cave,1,59,62
+145,Zapdos,Spring,Chargestone Cave,195,Grass / cave,4,59,62
+146,Moltres,Spring,Desert Resort,158,Grass / cave,5,59,62
+147,Dratini,Spring,Dragonspiral Tower,208,Grass / cave,1,52,55
+148,Dragonair,Spring,Dragonspiral Tower,205,Grass / cave,1,55,58
+149,Dragonite,Spring,Dragonspiral Tower,206,Grass / cave,1,60,63
+150,Mewtwo,Spring,Strange House,462,Grass / cave,10,62,65
+151,Mew,Spring,Relic Passage,505,Grass / cave,1,60,63
+152,Chikorita,Spring,Route 6,331,Grass / cave,1,52,55
+153,Bayleef,Spring,Victory Road,588,Grass / cave,1,55,58
+154,Meganium,Spring,Route 12,368,Grass / cave,1,58,61
+155,Cyndaquil,Spring,Desert Resort,157,Grass / cave,4,52,55
+156,Quilava,Spring,Virbank Complex,457,Grass / cave,4,55,58
+157,Typhlosion,Spring,Virbank Complex,456,Grass / cave,1,58,61
+158,Totodile,Spring,Route 14,374,Surf,1,52,55
+159,Croconaw,Spring,Abundant Shrine,376,Surf,1,55,58
+160,Feraligatr,Spring,Route 18,387,Surf,1,58,61
+161,Sentret,Spring,Route 5,329,Grass / cave,1,50,53
+162,Furret,Spring,Route 9,348,Grass / cave,1,55,58
+163,Hoothoot,Spring,Village Bridge,255,Grass / cave,1,51,54
+164,Noctowl,Spring,Route 13,370,Grass / cave,1,56,59
+165,Ledyba,Spring,Seaside Cave,516,Grass / cave,1,51,54
+166,Ledian,Spring,Mistralton Cave,333,Grass / cave,1,54,57
+167,Spinarak,Spring,Castelia Sewers,498,Grass / cave,4,51,54
+168,Ariados,Spring,Castelia Sewers,496,Grass / cave,4,54,57
+169,Crobat,Spring,Castelia Sewers,495,Grass / cave,4,58,61
+170,Chinchou,Spring,Undella Bay,240,Fishing,65,40,70
+171,Lanturn,Spring,P2 Laboratory,238,Fishing,1,56,59
+172,Pichu,Spring,Chargestone Cave,196,Grass / cave,4,50,53
+173,Cleffa,Spring,Route 16,383,Grass / cave,1,50,53
+174,Igglybuff,Spring,Victory Road,587,Grass / cave,1,50,53
+175,Togepi,Spring,Victory Road,590,Grass / cave,1,51,54
+176,Togetic,Spring,Village Bridge,255,Grass / cave,1,55,58
+177,Natu,Spring,Mistralton Cave,334,Grass / cave,1,53,56
+178,Xatu,Spring,Guidance Chamber,335,Grass / cave,1,56,59
+179,Mareep,Spring,Floccesy Ranch,445,Grass / cave,10,5,5
+180,Flaaffy,Spring,Chargestone Cave,197,Grass / cave,4,54,57
+181,Ampharos,Spring,P2 Laboratory,238,Grass / cave,1,57,60
+182,Bellossom,Spring,Victory Road,591,Grass / cave,1,57,60
+183,Marill,Spring,Village Bridge,255,Grass / cave,30,36,37
+184,Azumarill,Spring,Route 19,437,Surf,1,55,58
+185,Sudowoodo,Spring,Clay Tunnel,508,Grass / cave,1,55,58
+186,Politoed,Spring,Route 20,446,Surf,1,57,60
+187,Hoppip,Spring,Route 13,370,Grass / cave,1,51,54
+188,Skiploom,Spring,Route 15,378,Grass / cave,1,53,56
+189,Jumpluff,Spring,Route 6,331,Grass / cave,4,56,59
+190,Aipom,Spring,Victory Road,593,Grass / cave,1,54,57
+191,Sunkern,Spring,Route 20,446,Grass / cave,4,4,4
+192,Sunflora,Spring,Victory Road,594,Grass / cave,1,55,58
+193,Yanma,Spring,Pinwheel Forest,154,Grass / cave,10,55,55
+194,Wooper,Spring,Route 22,474,Surf,1,50,53
+195,Quagsire,Spring,Route 23,475,Surf,1,55,58
+196,Espeon,Spring,Victory Road,596,Grass / cave,1,58,61
+197,Umbreon,Spring,Giant Chasm,231,Grass / cave,1,58,61
+198,Murkrow,Spring,Giant Chasm,234,Grass / cave,1,55,58
+199,Slowking,Spring,Undella Town,412,Fishing,1,57,60
+200,Misdreavus,Spring,Celestial Tower,339,Grass / cave,1,55,58
+201,Unown,Spring,Dreamyard,152,Grass / cave,5,53,56
+202,Wobbuffet,Spring,Giant Chasm,232,Grass / cave,1,55,58
+203,Girafarig,Spring,Giant Chasm,233,Grass / cave,1,56,59
+204,Pineco,Spring,Pinwheel Forest,154,Grass / cave,10,52,55
+205,Forretress,Spring,Chargestone Cave,195,Grass / cave,5,56,59
+206,Dunsparce,Spring,Castelia City,500,Grass / cave,1,55,58
+207,Gligar,Spring,Route 15,378,Grass / cave,20,55,55
+208,Steelix,Spring,Clay Tunnel,506,Grass / cave,4,57,60
+209,Snubbull,Spring,Victory Road,587,Grass / cave,1,52,55
+210,Granbull,Spring,Victory Road,589,Grass / cave,1,56,59
+211,Qwilfish,Spring,Virbank City,448,Fishing,4,50,70
+212,Scizor,Spring,Chargestone Cave,196,Grass / cave,5,57,60
+213,Shuckle,Spring,Seaside Cave,516,Grass / cave,4,41,41
+214,Heracross,Spring,Route 12,368,Grass / cave,10,36,36
+215,Sneasel,Spring,Giant Chasm,231,Grass / cave,20,44,44
+216,Teddiursa,Spring,Victory Road,590,Grass / cave,1,53,56
+217,Ursaring,Spring,Victory Road,593,Grass / cave,1,57,60
+218,Slugma,Spring,Reversal Mountain,461,Grass / cave,10,51,54
+219,Magcargo,Spring,Twist Mountain,200,Grass / cave,5,55,58
+220,Swinub,Spring,Giant Chasm,231,Grass / cave,4,51,54
+221,Piloswine,Spring,Giant Chasm,231,Grass / cave,20,44,44
+222,Corsola,Spring,Route 18,387,Fishing,4,60,70
+223,Remoraid,Spring,Undella Bay,240,Fishing,30,40,60
+224,Octillery,Spring,Route 17,423,Surf,1,57,60
+225,Delibird,Spring,Giant Chasm,230,Grass / cave,4,44,44
+226,Mantine,Spring,Route 13,370,Fishing,4,56,59
+227,Skarmory,Spring,Reversal Mountain,461,Grass / cave,5,34,34
+228,Houndour,Spring,Route 9,348,Grass / cave,1,53,56
+229,Houndoom,Spring,Route 9,348,Grass / cave,4,57,60
+230,Kingdra,Spring,Route 23,475,Fishing,4,58,61
+231,Phanpy,Spring,Clay Tunnel,507,Grass / cave,4,53,56
+232,Donphan,Spring,Clay Tunnel,508,Grass / cave,4,57,60
+233,Porygon2,Spring,Victory Road,595,Grass / cave,1,57,60
+234,Stantler,Spring,Relic Passage,503,Grass / cave,1,56,59
+235,Smeargle,Spring,Relic Passage,504,Grass / cave,1,51,54
+236,Tyrogue,Spring,Route 23,475,Grass / cave,4,50,53
+237,Hitmontop,Spring,Floccesy Ranch,445,Grass / cave,4,56,59
+238,Smoochum,Spring,Giant Chasm,230,Grass / cave,4,52,55
+239,Elekid,Spring,Virbank Complex,456,Grass / cave,5,11,11
+240,Magby,Spring,Virbank Complex,457,Grass / cave,20,10,10
+241,Miltank,Spring,Route 2,319,Grass / cave,1,57,60
+242,Blissey,Spring,Route 5,329,Grass / cave,1,58,61
+243,Raikou,Spring,Chargestone Cave,197,Grass / cave,5,59,62
+244,Entei,Spring,Virbank Complex,457,Grass / cave,5,59,62
+245,Suicune,Spring,Route 21,463,Surf,1,59,62
+246,Larvitar,Spring,Twist Mountain,201,Grass / cave,5,52,55
+247,Pupitar,Spring,Route 15,378,Grass / cave,10,55,55
+248,Tyranitar,Spring,Giant Chasm,234,Grass / cave,4,60,63
+249,Lugia,Spring,Relic Passage,505,Grass / cave,1,62,65
+250,Ho-Oh,Spring,Virbank Complex,456,Grass / cave,4,62,65
+251,Celebi,Spring,Abundant Shrine,376,Grass / cave,1,60,63
+252,Treecko,Spring,Victory Road,588,Grass / cave,1,52,55
+253,Grovyle,Spring,Victory Road,591,Grass / cave,1,55,58
+254,Sceptile,Spring,Victory Road,594,Grass / cave,1,58,61
+255,Torchic,Spring,Desert Resort,157,Grass / cave,10,52,55
+256,Combusken,Spring,Desert Resort,158,Grass / cave,10,55,58
+257,Blaziken,Spring,Dragonspiral Tower,207,Grass / cave,1,58,61
+258,Mudkip,Spring,Virbank City,448,Fishing,1,52,55
+259,Marshtomp,Spring,Route 22,474,Surf,4,55,58
+260,Swampert,Spring,Undella Bay,240,Fishing,1,58,61
+261,Poochyena,Spring,Giant Chasm,232,Grass / cave,4,50,53
+262,Mightyena,Spring,Giant Chasm,233,Grass / cave,4,55,58
+263,Zigzagoon,Spring,Route 12,368,Grass / cave,1,51,54
+264,Linoone,Spring,Route 16,383,Grass / cave,1,55,58
+265,Wurmple,Spring,Seaside Cave,516,Grass / cave,1,49,52
+266,Silcoon,Spring,Mistralton Cave,333,Grass / cave,1,50,53
+267,Beautifly,Spring,Route 7,337,Grass / cave,10,54,57
+268,Cascoon,Spring,Route 11,365,Grass / cave,1,50,53
+269,Dustox,Spring,Castelia Sewers,497,Grass / cave,4,54,57
+270,Lotad,Spring,Pinwheel Forest,155,Fishing,4,50,53
+271,Lombre,Spring,Route 6,331,Fishing,4,53,56
+272,Ludicolo,Spring,Pinwheel Forest,155,Fishing,5,57,60
+273,Seedot,Spring,Route 15,378,Grass / cave,1,50,53
+274,Nuzleaf,Spring,Giant Chasm,230,Grass / cave,5,53,56
+275,Shiftry,Spring,Giant Chasm,231,Grass / cave,5,57,60
+276,Taillow,Spring,Route 14,374,Grass / cave,1,51,54
+277,Swellow,Spring,Route 20,446,Grass / cave,1,55,58
+278,Wingull,Spring,Village Bridge,255,Fishing,4,51,54
+279,Pelipper,Spring,Giant Chasm,230,Grass / cave,20,45,45
+280,Ralts,Spring,Victory Road,596,Grass / cave,1,49,52
+281,Kirlia,Spring,Mistralton Cave,334,Grass / cave,1,51,54
+282,Gardevoir,Spring,Guidance Chamber,335,Grass / cave,1,57,60
+283,Surskit,Spring,Pinwheel Forest,155,Surf,4,51,54
+284,Masquerain,Spring,Celestial Tower,340,Grass / cave,1,55,58
+285,Shroomish,Spring,Pinwheel Forest,155,Grass / cave,4,52,55
+286,Breloom,Spring,Route 23,475,Grass / cave,5,56,59
+287,Slakoth,Spring,Route 19,437,Grass / cave,1,52,55
+288,Vigoroth,Spring,Pinwheel Forest,155,Grass / cave,15,55,57
+289,Slaking,Spring,Dragonspiral Tower,208,Grass / cave,1,61,64
+290,Nincada,Spring,Clay Tunnel,506,Grass / cave,5,51,54
+291,Ninjask,Spring,Celestial Tower,341,Grass / cave,1,56,59
+292,Shedinja,Spring,Celestial Tower,339,Grass / cave,1,50,53
+293,Whismur,Spring,Victory Road,592,Grass / cave,1,51,54
+294,Loudred,Spring,Celestial Tower,342,Grass / cave,1,54,57
+295,Exploud,Spring,Castelia City,500,Grass / cave,4,57,60
+296,Makuhita,Spring,Floccesy Ranch,445,Grass / cave,5,50,53
+297,Hariyama,Spring,Pinwheel Forest,154,Grass / cave,10,56,59
+298,Azurill,Spring,Floccesy Ranch,444,Surf,30,5,15
+299,Nosepass,Spring,Chargestone Cave,195,Grass / cave,10,27,27
+300,Skitty,Spring,Castelia City,500,Grass / cave,5,16,16
+301,Delcatty,Spring,Dragonspiral Tower,205,Grass / cave,4,54,57
+302,Sableye,Spring,Celestial Tower,339,Grass / cave,4,54,57
+303,Mawile,Spring,P2 Laboratory,238,Grass / cave,1,54,57
+304,Aron,Spring,Mistralton Cave,334,Grass / cave,15,29,30
+305,Lairon,Spring,Clay Tunnel,506,Grass / cave,10,55,55
+306,Aggron,Spring,Twist Mountain,202,Grass / cave,5,58,61
+307,Meditite,Spring,Relic Passage,503,Grass / cave,4,52,55
+308,Medicham,Spring,Relic Passage,504,Grass / cave,4,55,58
+309,Electrike,Spring,P2 Laboratory,238,Grass / cave,4,52,55
+310,Manectric,Spring,Chargestone Cave,195,Grass / cave,10,56,59
+311,Plusle,Spring,Chargestone Cave,196,Grass / cave,10,55,58
+312,Minun,Spring,Chargestone Cave,197,Grass / cave,10,55,58
+313,Volbeat,Spring,Seaside Cave,516,Grass / cave,4,55,58
+314,Illumise,Spring,Mistralton Cave,333,Grass / cave,4,55,58
+315,Roselia,Spring,Route 12,368,Grass / cave,20,35,35
+316,Gulpin,Spring,Castelia Sewers,498,Grass / cave,4,52,55
+317,Swalot,Spring,Castelia Sewers,499,Grass / cave,4,56,59
+318,Carvanha,Spring,Village Bridge,255,Fishing,60,40,60
+319,Sharpedo,Spring,Seaside Cave,515,Fishing,1,56,59
+320,Wailmer,Spring,Route 1,317,Fishing,1,55,58
+321,Wailord,Spring,Route 18,387,Fishing,1,57,60
+322,Numel,Spring,Reversal Mountain,461,Grass / cave,20,31,31
+323,Camerupt,Spring,Reversal Mountain,461,Grass / cave,4,33,33
+324,Torkoal,Spring,Virbank Complex,456,Grass / cave,4,56,59
+325,Spoink,Spring,Reversal Mountain,461,Grass / cave,1,31,31
+326,Grumpig,Spring,Reversal Mountain,461,Grass / cave,5,33,33
+327,Spinda,Spring,Dragonspiral Tower,206,Grass / cave,4,54,57
+328,Trapinch,Spring,Reversal Mountain,461,Grass / cave,10,32,32
+329,Vibrava,Spring,Dragonspiral Tower,207,Grass / cave,4,53,56
+330,Flygon,Spring,Dragonspiral Tower,208,Grass / cave,4,58,61
+331,Cacnea,Spring,Route 6,331,Grass / cave,4,53,56
+332,Cacturne,Spring,Giant Chasm,232,Grass / cave,5,56,59
+333,Swablu,Spring,Route 14,374,Grass / cave,20,33,33
+334,Altaria,Spring,Victory Road,589,Grass / cave,10,49,49
+335,Zangoose,Spring,Village Bridge,255,Grass / cave,10,37,37
+336,Seviper,Spring,Village Bridge,255,Grass / cave,10,37,37
+337,Lunatone,Spring,Giant Chasm,230,Grass / cave,10,45,45
+338,Solrock,Spring,Giant Chasm,230,Grass / cave,10,46,46
+339,Barboach,Spring,Route 17,423,Fishing,1,52,55
+340,Whiscash,Spring,Route 21,463,Fishing,1,56,59
+341,Corphish,Spring,Striaton City,6,Surf,30,45,60
+342,Crawdaunt,Spring,Striaton City,6,Fishing,4,56,59
+343,Baltoy,Spring,Clay Tunnel,507,Grass / cave,5,52,55
+344,Claydol,Spring,Clay Tunnel,508,Grass / cave,5,57,60
+345,Lileep,Spring,Twist Mountain,203,Grass / cave,5,53,56
+346,Cradily,Spring,Twist Mountain,203,Grass / cave,20,57,60
+347,Anorith,Spring,Twist Mountain,200,Grass / cave,20,53,56
+348,Armaldo,Spring,Twist Mountain,201,Grass / cave,20,57,60
+349,Feebas,Spring,Route 1,317,Fishing,4,50,70
+350,Milotic,Spring,Humilau City,465,Surf,4,58,61
+351,Castform,Spring,Victory Road,587,Grass / cave,4,55,58
+352,Kecleon,Spring,Victory Road,589,Grass / cave,4,56,59
+353,Shuppet,Spring,Celestial Tower,340,Grass / cave,4,52,55
+354,Banette,Spring,Victory Road,587,Grass / cave,65,47,50
+355,Duskull,Spring,Celestial Tower,341,Grass / cave,4,52,55
+356,Dusclops,Spring,Celestial Tower,342,Grass / cave,4,56,59
+357,Tropius,Spring,Route 18,387,Grass / cave,10,58,58
+358,Chimecho,Spring,Dreamyard,152,Grass / cave,10,55,58
+359,Absol,Spring,Route 13,370,Grass / cave,10,35,35
+360,Wynaut,Spring,Victory Road,596,Grass / cave,4,51,54
+361,Snorunt,Spring,Giant Chasm,233,Grass / cave,5,52,55
+362,Glalie,Spring,Giant Chasm,234,Grass / cave,5,57,60
+363,Spheal,Spring,Floccesy Ranch,445,Surf,4,52,55
+364,Sealeo,Spring,Floccesy Ranch,444,Fishing,4,55,58
+365,Walrein,Spring,Route 3,321,Fishing,4,58,61
+366,Clamperl,Spring,Route 11,365,Fishing,4,53,56
+367,Huntail,Spring,Route 14,374,Fishing,4,57,60
+368,Gorebyss,Spring,Abundant Shrine,376,Fishing,4,57,60
+369,Relicanth,Spring,Wellspring Cave,324,Surf,4,57,60
+370,Luvdisc,Spring,Undella Town,412,Fishing,69,40,70
+371,Bagon,Spring,Dragonspiral Tower,207,Grass / cave,4,52,55
+372,Shelgon,Spring,Dragonspiral Tower,208,Grass / cave,4,55,58
+373,Salamence,Spring,Dragonspiral Tower,205,Grass / cave,5,60,63
+374,Beldum,Spring,Mistralton Cave,334,Grass / cave,4,52,55
+375,Metang,Spring,Giant Chasm,232,Grass / cave,5,45,45
+376,Metagross,Spring,Guidance Chamber,335,Grass / cave,4,60,63
+377,Regirock,Spring,Wellspring Cave,325,Grass / cave,1,59,62
+378,Regice,Spring,Twist Mountain,202,Grass / cave,20,59,62
+379,Registeel,Spring,P2 Laboratory,238,Grass / cave,4,59,62
+380,Latias,Spring,Dragonspiral Tower,206,Grass / cave,5,60,63
+381,Latios,Spring,Dragonspiral Tower,206,Grass / cave,5,60,63
+382,Kyogre,Spring,Route 19,437,Fishing,4,61,64
+383,Groudon,Spring,Clay Tunnel,506,Grass / cave,5,61,64
+384,Rayquaza,Spring,Dragonspiral Tower,205,Grass / cave,5,62,65
+385,Jirachi,Spring,Abundant Shrine,376,Grass / cave,1,60,63
+386,Deoxys,Spring,Relic Passage,505,Grass / cave,4,60,63
+387,Turtwig,Spring,Victory Road,588,Grass / cave,4,52,55
+388,Grotle,Spring,Victory Road,591,Grass / cave,4,55,58
+389,Torterra,Spring,Clay Tunnel,507,Grass / cave,5,58,61
+390,Chimchar,Spring,Desert Resort,157,Grass / cave,10,52,55
+391,Monferno,Spring,Virbank Complex,457,Grass / cave,10,55,58
+392,Infernape,Spring,Victory Road,592,Grass / cave,4,58,61
+393,Piplup,Spring,Route 20,446,Fishing,4,52,55
+394,Prinplup,Spring,Undella Town,412,Surf,4,55,58
+395,Empoleon,Spring,Virbank Complex,456,Surf,1,58,61
+396,Starly,Spring,Village Bridge,255,Grass / cave,4,51,54
+397,Staravia,Spring,Route 13,370,Grass / cave,4,53,56
+398,Staraptor,Spring,Victory Road,595,Grass / cave,4,56,59
+399,Bidoof,Spring,Victory Road,590,Grass / cave,4,51,54
+400,Bibarel,Spring,Floccesy Ranch,444,Surf,4,55,58
+401,Kricketot,Spring,Route 12,368,Grass / cave,4,49,52
+402,Kricketune,Spring,Route 3,321,Grass / cave,1,54,57
+403,Shinx,Spring,Chargestone Cave,195,Grass / cave,10,51,54
+404,Luxio,Spring,Chargestone Cave,196,Grass / cave,10,54,57
+405,Luxray,Spring,Chargestone Cave,197,Grass / cave,10,58,61
+406,Budew,Spring,Castelia Sewers,495,Grass / cave,5,52,55
+407,Roserade,Spring,Castelia Sewers,499,Grass / cave,5,57,60
+408,Cranidos,Spring,Wellspring Cave,324,Grass / cave,1,53,56
+409,Rampardos,Spring,Wellspring Cave,325,Grass / cave,1,57,60
+410,Shieldon,Spring,Clay Tunnel,508,Grass / cave,5,53,56
+411,Bastiodon,Spring,Clay Tunnel,506,Grass / cave,10,57,60
+412,Burmy,Spring,Route 18,387,Grass / cave,1,50,53
+413,Wormadam,Spring,Route 11,365,Grass / cave,1,55,58
+414,Mothim,Spring,Route 20,446,Grass / cave,1,55,58
+415,Combee,Spring,Route 12,368,Grass / cave,20,35,35
+416,Vespiquen,Spring,Route 15,378,Grass / cave,4,56,59
+417,Pachirisu,Spring,Seaside Cave,515,Grass / cave,1,55,58
+418,Buizel,Spring,Route 11,365,Surf,30,25,40
+419,Floatzel,Spring,Floccesy Ranch,445,Fishing,4,57,60
+420,Cherubi,Spring,Victory Road,594,Grass / cave,4,51,54
+421,Cherrim,Spring,Route 22,474,Grass / cave,1,56,59
+422,Shellos,Spring,Route 13,370,Surf,4,53,56
+423,Gastrodon,Spring,Undella Bay,240,Fishing,4,56,59
+424,Ambipom,Spring,Victory Road,593,Grass / cave,4,57,60
+425,Drifloon,Spring,Celestial Tower,340,Grass / cave,4,53,56
+426,Drifblim,Spring,Route 13,370,Grass / cave,15,34,35
+427,Buneary,Spring,Castelia City,500,Grass / cave,10,15,15
+428,Lopunny,Spring,Route 2,319,Grass / cave,4,57,60
+429,Mismagius,Spring,Celestial Tower,339,Grass / cave,4,57,60
+430,Honchkrow,Spring,Route 9,348,Grass / cave,5,57,60
+431,Glameow,Spring,Route 5,329,Grass / cave,4,52,55
+432,Purugly,Spring,Route 16,383,Grass / cave,4,56,59
+433,Chingling,Spring,Route 1,317,Grass / cave,1,52,55
+434,Stunky,Spring,Route 9,348,Grass / cave,10,53,56
+435,Skuntank,Spring,Giant Chasm,231,Grass / cave,5,56,59
+436,Bronzor,Spring,Abundant Shrine,376,Grass / cave,10,32,32
+437,Bronzong,Spring,Mistralton Cave,333,Grass / cave,4,57,60
+438,Bonsly,Spring,Wellspring Cave,324,Grass / cave,1,52,55
+439,Mime Jr.,Spring,Victory Road,596,Grass / cave,4,52,55
+440,Happiny,Spring,Route 14,374,Grass / cave,1,50,53
+441,Chatot,Spring,Village Bridge,255,Grass / cave,4,55,58
+442,Spiritomb,Spring,Celestial Tower,341,Grass / cave,4,57,60
+443,Gible,Spring,Dragonspiral Tower,207,Grass / cave,5,52,55
+444,Gabite,Spring,Dragonspiral Tower,208,Grass / cave,5,55,58
+445,Garchomp,Spring,Giant Chasm,234,Grass / cave,5,60,63
+446,Munchlax,Spring,Route 19,437,Grass / cave,1,54,57
+447,Riolu,Spring,Floccesy Ranch,445,Grass / cave,4,5,5
+448,Lucario,Spring,P2 Laboratory,238,Grass / cave,5,58,61
+449,Hippopotas,Spring,Clay Tunnel,507,Grass / cave,10,53,56
+450,Hippowdon,Spring,Clay Tunnel,508,Grass / cave,10,58,61
+451,Skorupi,Spring,Reversal Mountain,461,Grass / cave,20,31,31
+452,Drapion,Spring,Castelia Sewers,496,Grass / cave,5,57,60
+453,Croagunk,Spring,Castelia Sewers,497,Grass / cave,5,52,55
+454,Toxicroak,Spring,Pinwheel Forest,154,Grass / cave,10,55,55
+455,Carnivine,Spring,Route 18,387,Grass / cave,10,58,58
+456,Finneon,Spring,Route 18,387,Fishing,65,50,70
+457,Lumineon,Spring,Route 22,474,Fishing,4,56,59
+458,Mantyke,Spring,Undella Bay,240,Surf,30,25,40
+459,Snover,Spring,Giant Chasm,230,Grass / cave,10,53,56
+460,Abomasnow,Spring,Giant Chasm,232,Grass / cave,10,57,60
+461,Weavile,Spring,Giant Chasm,233,Grass / cave,10,57,60
+462,Magnezone,Spring,Virbank Complex,456,Grass / cave,5,58,61
+463,Lickilicky,Spring,Victory Road,587,Grass / cave,4,57,60
+464,Rhyperior,Spring,Wellspring Cave,325,Grass / cave,4,58,61
+465,Tangrowth,Spring,Pinwheel Forest,155,Grass / cave,4,58,61
+466,Electivire,Spring,Seaside Cave,515,Grass / cave,1,58,61
+467,Magmortar,Spring,Victory Road,592,Grass / cave,4,58,61
+468,Togekiss,Spring,Route 13,370,Grass / cave,4,58,61
+469,Yanmega,Spring,Route 12,368,Grass / cave,4,57,60
+470,Leafeon,Spring,Route 6,331,Grass / cave,10,58,61
+471,Glaceon,Spring,Route 22,474,Grass / cave,1,58,61
+472,Gliscor,Spring,Route 15,378,Grass / cave,4,57,60
+473,Mamoswine,Spring,Victory Road,590,Grass / cave,4,58,61
+474,Porygon-Z,Spring,Victory Road,589,Grass / cave,4,58,61
+475,Gallade,Spring,Relic Passage,503,Grass / cave,5,57,60
+476,Probopass,Spring,Wellspring Cave,324,Grass / cave,4,58,61
+477,Dusknoir,Spring,Celestial Tower,342,Grass / cave,4,58,61
+478,Froslass,Spring,Celestial Tower,339,Grass / cave,5,57,60
+479,Rotom,Spring,Celestial Tower,340,Grass / cave,5,56,59
+480,Uxie,Spring,Route 5,329,Grass / cave,4,59,62
+481,Mesprit,Spring,Mistralton Cave,334,Grass / cave,4,59,62
+482,Azelf,Spring,Guidance Chamber,335,Grass / cave,4,59,62
+483,Dialga,Spring,Dragonspiral Tower,207,Grass / cave,5,62,65
+484,Palkia,Spring,Route 23,475,Fishing,5,62,65
+485,Heatran,Spring,Abundant Shrine,376,Grass / cave,4,60,63
+486,Regigigas,Spring,Victory Road,593,Grass / cave,4,61,64
+487,Giratina,Spring,Celestial Tower,341,Grass / cave,5,62,65
+488,Cresselia,Spring,Route 16,383,Grass / cave,4,60,63
+489,Phione,Spring,Striaton City,6,Surf,4,57,60
+490,Manaphy,Spring,Virbank City,448,Surf,4,60,63
+491,Darkrai,Spring,Route 2,319,Grass / cave,4,60,63
+492,Shaymin,Spring,Victory Road,588,Grass / cave,4,60,63
+493,Arceus,Spring,Victory Road,595,Grass / cave,4,63,66
+494,Victini,Spring,Relic Passage,504,Grass / cave,5,60,63
+495,Snivy,Spring,Victory Road,591,Grass / cave,4,52,55
+496,Servine,Spring,Victory Road,594,Grass / cave,4,55,58
+497,Serperior,Spring,Castelia City,500,Grass / cave,5,58,61
+498,Tepig,Spring,Relic Passage,505,Grass / cave,5,52,55
+499,Pignite,Spring,Floccesy Ranch,445,Grass / cave,10,55,58
+500,Emboar,Spring,Route 18,387,Grass / cave,1,58,61
+501,Oshawott,Spring,Humilau City,465,Fishing,4,52,55
+502,Dewott,Spring,P2 Laboratory,238,Surf,4,55,58
+503,Samurott,Spring,Seaside Cave,515,Surf,4,58,61
+504,Patrat,Spring,Route 19,437,Grass / cave,49,2,4
+505,Watchog,Spring,Route 1,317,Grass / cave,39,56,59
+506,Lillipup,Spring,Floccesy Ranch,445,Grass / cave,20,4,4
+507,Herdier,Spring,Route 1,317,Grass / cave,45,56,59
+508,Stoutland,Spring,Route 1,317,Grass / cave,1,57,60
+509,Purrloin,Spring,Route 19,437,Grass / cave,45,2,4
+510,Liepard,Spring,Dreamyard,152,Grass / cave,20,56,56
+511,Pansage,Spring,Route 11,365,Grass / cave,4,52,55
+512,Simisage,Spring,Route 20,446,Grass / cave,4,57,60
+513,Pansear,Spring,Seaside Cave,516,Grass / cave,5,52,55
+514,Simisear,Spring,Route 3,321,Grass / cave,1,57,60
+515,Panpour,Spring,Village Bridge,255,Surf,4,52,55
+516,Simipour,Spring,Route 1,317,Surf,4,57,60
+517,Munna,Spring,Dreamyard,152,Grass / cave,10,57,57
+518,Musharna,Spring,Victory Road,596,Grass / cave,5,57,60
+519,Pidove,Spring,Route 20,446,Grass / cave,25,2,4
+520,Tranquill,Spring,Victory Road,589,Grass / cave,75,47,50
+521,Unfezant,Spring,Route 14,374,Grass / cave,4,56,59
+522,Blitzle,Spring,P2 Laboratory,238,Grass / cave,5,52,55
+523,Zebstrika,Spring,Route 3,321,Grass / cave,15,56,58
+524,Roggenrola,Spring,Relic Passage,503,Grass / cave,30,16,17
+525,Boldore,Spring,Victory Road,590,Grass / cave,75,41,44
+526,Gigalith,Spring,Wellspring Cave,325,Grass / cave,4,57,60
+527,Woobat,Spring,Wellspring Cave,324,Grass / cave,40,55,57
+528,Swoobat,Spring,Route 13,370,Grass / cave,5,55,58
+529,Drilbur,Spring,Victory Road,587,Grass / cave,5,53,56
+530,Excadrill,Spring,Virbank Complex,456,Grass / cave,10,57,60
+531,Audino,Spring,Route 19,437,Grass / cave,4,56,59
+532,Timburr,Spring,Relic Passage,503,Grass / cave,10,17,17
+533,Gurdurr,Spring,Victory Road,592,Grass / cave,65,47,50
+534,Conkeldurr,Spring,Victory Road,592,Grass / cave,5,57,60
+535,Tympole,Spring,Route 3,321,Surf,4,52,55
+536,Palpitoad,Spring,Pinwheel Forest,154,Grass / cave,20,54,54
+537,Seismitoad,Spring,Route 17,423,Fishing,4,57,60
+538,Throh,Spring,Victory Road,592,Grass / cave,20,48,49
+539,Sawk,Spring,Route 23,475,Grass / cave,20,48,48
+540,Sewaddle,Spring,Route 20,446,Grass / cave,35,2,4
+541,Swadloon,Spring,Pinwheel Forest,155,Grass / cave,20,54,54
+542,Leavanny,Spring,Pinwheel Forest,155,Grass / cave,5,57,60
+543,Venipede,Spring,Lostlorn Forest,385,Grass / cave,10,21,21
+544,Whirlipede,Spring,Pinwheel Forest,155,Grass / cave,10,55,55
+545,Scolipede,Spring,Castelia Sewers,498,Grass / cave,5,56,59
+546,Cottonee,Spring,Pinwheel Forest,155,Grass / cave,20,54,54
+547,Whimsicott,Spring,Victory Road,588,Grass / cave,5,57,60
+548,Petilil,Spring,Victory Road,588,Grass / cave,45,47,50
+549,Lilligant,Spring,Victory Road,591,Grass / cave,5,57,60
+550,Basculin,Spring,Route 19,437,Surf,99,5,15
+551,Sandile,Spring,Desert Resort,157,Grass / cave,20,18,18
+552,Krokorok,Spring,Route 15,378,Grass / cave,5,53,56
+553,Krookodile,Spring,Victory Road,590,Grass / cave,5,57,60
+554,Darumaka,Spring,Desert Resort,157,Grass / cave,20,18,18
+555,Darmanitan,Spring,Relic Passage,505,Grass / cave,5,57,60
+556,Maractus,Spring,Desert Resort,157,Grass / cave,10,19,19
+557,Dwebble,Spring,Desert Resort,157,Grass / cave,5,19,19
+558,Crustle,Spring,Route 18,387,Grass / cave,20,57,57
+559,Scraggy,Spring,Desert Resort,157,Grass / cave,10,19,19
+560,Scrafty,Spring,Route 18,387,Grass / cave,25,57,58
+561,Sigilyph,Spring,Desert Resort,158,Grass / cave,10,19,19
+562,Yamask,Spring,Celestial Tower,342,Grass / cave,5,52,55
+563,Cofagrigus,Spring,Celestial Tower,339,Grass / cave,5,57,60
+564,Tirtouga,Spring,Wellspring Cave,325,Surf,4,53,56
+565,Carracosta,Spring,Wellspring Cave,324,Surf,5,57,60
+566,Archen,Spring,Wellspring Cave,324,Grass / cave,4,55,58
+567,Archeops,Spring,Wellspring Cave,325,Grass / cave,5,59,62
+568,Trubbish,Spring,Route 5,329,Grass / cave,10,21,21
+569,Garbodor,Spring,Route 9,348,Grass / cave,10,38,38
+570,Zorua,Spring,Victory Road,593,Grass / cave,5,53,56
+571,Zoroark,Spring,Route 2,319,Grass / cave,5,57,60
+572,Minccino,Spring,Route 5,329,Grass / cave,30,21,23
+573,Cinccino,Spring,Victory Road,589,Grass / cave,5,56,59
+574,Gothita,Spring,Route 5,329,Grass / cave,20,21,21
+575,Gothorita,Spring,Route 9,348,Grass / cave,20,37,37
+576,Gothitelle,Spring,Route 5,329,Grass / cave,5,57,60
+577,Solosis,Spring,Strange House,462,Grass / cave,20,31,31
+578,Duosion,Spring,Route 9,348,Grass / cave,4,39,39
+579,Reuniclus,Spring,Mistralton Cave,333,Grass / cave,5,57,60
+580,Ducklett,Spring,Village Bridge,255,Fishing,5,52,55
+581,Swanna,Spring,Route 13,370,Fishing,5,56,59
+582,Vanillite,Spring,Route 22,474,Grass / cave,4,52,55
+583,Vanillish,Spring,Giant Chasm,231,Grass / cave,10,45,45
+584,Vanilluxe,Spring,Victory Road,594,Grass / cave,5,58,61
+585,Deerling,Spring,Route 6,331,Grass / cave,20,23,23
+586,Sawsbuck,Spring,Dragonspiral Tower,205,Grass / cave,30,55,57
+587,Emolga,Spring,Seaside Cave,515,Grass / cave,4,55,58
+588,Karrablast,Spring,Route 6,331,Grass / cave,20,23,23
+589,Escavalier,Spring,Mistralton Cave,334,Grass / cave,5,57,60
+590,Foongus,Spring,Route 6,331,Grass / cave,10,26,26
+591,Amoonguss,Spring,Route 22,474,Grass / cave,20,39,39
+592,Frillish,Spring,Route 17,423,Surf,99,45,60
+593,Jellicent,Spring,Route 18,387,Surf,4,57,60
+594,Alomomola,Spring,Route 6,331,Surf,4,56,59
+595,Joltik,Spring,Chargestone Cave,195,Grass / cave,20,25,25
+596,Galvantula,Spring,Route 3,321,Grass / cave,4,56,59
+597,Ferroseed,Spring,Chargestone Cave,195,Grass / cave,10,26,26
+598,Ferrothorn,Spring,Abundant Shrine,376,Grass / cave,5,57,60
+599,Klink,Spring,Chargestone Cave,195,Grass / cave,20,26,26
+600,Klang,Spring,P2 Laboratory,238,Grass / cave,10,57,57
+601,Klinklang,Spring,Guidance Chamber,335,Grass / cave,5,58,61
+602,Tynamo,Spring,Seaside Cave,515,Grass / cave,5,37,37
+603,Eelektrik,Spring,Seaside Cave,516,Grass / cave,5,42,42
+604,Eelektross,Spring,Seaside Cave,516,Grass / cave,10,57,60
+605,Elgyem,Spring,Celestial Tower,342,Grass / cave,30,30,31
+606,Beheeyem,Spring,Route 16,383,Grass / cave,5,57,60
+607,Litwick,Spring,Celestial Tower,339,Grass / cave,80,27,29
+608,Lampent,Spring,Celestial Tower,342,Grass / cave,5,54,57
+609,Chandelure,Spring,Celestial Tower,340,Grass / cave,10,58,61
+610,Axew,Spring,Mistralton Cave,333,Grass / cave,10,29,29
+611,Fraxure,Spring,Dragonspiral Tower,208,Grass / cave,5,55,58
+612,Haxorus,Spring,Dragonspiral Tower,205,Grass / cave,10,58,61
+613,Cubchoo,Spring,Victory Road,595,Grass / cave,5,52,55
+614,Beartic,Spring,Twist Mountain,200,Grass / cave,10,56,56
+615,Cryogonal,Spring,Twist Mountain,200,Grass / cave,4,57,57
+616,Shelmet,Spring,Route 6,331,Grass / cave,5,23,23
+617,Accelgor,Spring,Route 12,368,Grass / cave,5,57,60
+618,Stunfisk,Spring,Relic Passage,503,Grass / cave,10,56,59
+619,Mienfoo,Spring,Route 14,374,Grass / cave,20,33,35
+620,Mienshao,Spring,Dragonspiral Tower,207,Grass / cave,20,55,55
+621,Druddigon,Spring,Victory Road,593,Grass / cave,75,47,50
+622,Golett,Spring,Celestial Tower,341,Grass / cave,10,52,55
+623,Golurk,Spring,Dragonspiral Tower,208,Grass / cave,70,55,57
+624,Pawniard,Spring,Route 9,348,Grass / cave,10,38,38
+625,Bisharp,Spring,Route 18,387,Grass / cave,4,57,60
+626,Bouffalant,Spring,Route 23,475,Grass / cave,20,49,49
+627,Rufflet,Spring,Route 23,475,Grass / cave,1,47,47
+628,Braviary,Spring,Village Bridge,255,Grass / cave,5,57,60
+629,Vullaby,Spring,Route 23,475,Grass / cave,4,47,47
+630,Mandibuzz,Spring,Route 14,374,Grass / cave,5,57,60
+631,Heatmor,Spring,Twist Mountain,200,Grass / cave,5,56,56
+632,Durant,Spring,Clay Tunnel,506,Grass / cave,20,54,54
+633,Deino,Spring,Dragonspiral Tower,206,Grass / cave,10,52,55
+634,Zweilous,Spring,Victory Road,593,Grass / cave,10,49,49
+635,Hydreigon,Spring,Dragonspiral Tower,206,Grass / cave,10,60,63
+636,Larvesta,Spring,Relic Passage,504,Grass / cave,10,54,57
+637,Volcarona,Spring,Route 3,321,Grass / cave,4,58,61
+638,Cobalion,Spring,Route 18,387,Grass / cave,4,59,62
+639,Terrakion,Spring,Wellspring Cave,324,Grass / cave,5,59,62
+640,Virizion,Spring,Castelia City,500,Grass / cave,10,59,62
+641,Tornadus,Spring,Route 11,365,Grass / cave,4,59,62
+642,Thundurus,Spring,Virbank Complex,456,Grass / cave,10,59,62
+643,Reshiram,Spring,Dragonspiral Tower,207,Grass / cave,10,62,65
+644,Zekrom,Spring,Dragonspiral Tower,205,Grass / cave,10,62,65
+645,Landorus,Spring,Relic Passage,503,Grass / cave,10,60,63
+646,Kyurem,Spring,Dragonspiral Tower,208,Grass / cave,10,61,64
+647,Keldeo,Spring,Route 23,475,Surf,4,59,62
+648,Meloetta,Spring,Route 1,317,Grass / cave,4,60,63
+649,Genesect,Spring,Mistralton Cave,333,Grass / cave,5,60,63
