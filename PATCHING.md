@@ -14,34 +14,34 @@ Other regions, revisions, trimmed files and modified source ROMs have not been v
 ## Apply the patch
 
 1. Open an xdelta3-compatible patcher.
-2. Choose `Following-Black-2-v1.0.0.xdelta` or `Following-White-2-v1.0.0.xdelta` for the corresponding game.
+2. Choose `Following-Black-2-v1.0.1.xdelta` or `Following-White-2-v1.0.1.xdelta` for the corresponding game.
 3. Choose your matching original ROM as the source.
 4. Choose a new `.nds` output filename and apply the patch. The resulting ROM is 512 MiB.
 
 For the [official xdelta3 command-line tool](https://github.com/jmacd/xdelta):
 
 ```sh
-xdelta3 -d -s "Original Black 2.nds" "Following-Black-2-v1.0.0.xdelta" "Following Black 2.nds"
-xdelta3 -d -s "Original White 2.nds" "Following-White-2-v1.0.0.xdelta" "Following White 2.nds"
+xdelta3 -d -s "Original Black 2.nds" "Following-Black-2-v1.0.1.xdelta" "Following Black 2.nds"
+xdelta3 -d -s "Original White 2.nds" "Following-White-2-v1.0.1.xdelta" "Following White 2.nds"
 ```
 
 ## Keep your progress when updating
 
 Apply the new patch to the original ROM again, rather than to a previous Following build. Keep a backup of your existing battery `.sav`, then match its base filename to the new ROM. Start normally and select Continue. A new game is not required to upgrade.
 
-Older `.mln` states contain loaded code and memory from the version that created them. Loading one can restore an old bug even while the new ROM is selected. Use a normal boot through Continue or New Game when validating an update.
+Older `.dst` / `.mln` states contain loaded code and memory from the version that created them. Loading one can restore an old bug even while the new ROM is selected. Use a normal boot through Continue or New Game when validating an update.
 
-## Verify v1.0.0
+## Verify v1.0.1
 
 Both patches were applied to their supported originals, and the full resulting ROMs matched these SHA-256 hashes:
 
-| Game | Patched v1.0.0 SHA-256 |
+| Game | Patched v1.0.1 SHA-256 |
 | :--- | :--- |
-| Black 2 | `574a0c4bdff4d6c31adc87249e1ace9b67c8166df36414cdf70e70817a02c896` |
-| White 2 | `afbcc508519637e184baeb0c7e11f1a111bdbedee7a86d182882997b3970d82f` |
+| Black 2 | `e21e2463b9468bfb29b670dcfd2b0428a827a820971c3cb7ab04f1b3c31bd8cf` |
+| White 2 | `0a32f28b2d468f849ac0ea809347c875bd9a8e6b328f53da126a139345c8dcb4` |
 
 Each release includes patch checksums and a release manifest. On macOS, `shasum -a 256 "your-file.nds"` prints a file's SHA-256. In Windows PowerShell, use `Get-FileHash "your-file.nds" -Algorithm SHA256`.
 
 Both patches contain the complete DSi code sections from their verified originals. Kai confirmed that the Summary issue is fixed on DSi hardware running through nds-bootstrap in DS mode, and subsequently reported DSi mode working after first booting in DS mode. This is a hardware test report, not a claim of exhaustive compatibility. If you see a white screen on an initial DSi-mode launch, try one normal launch in DS mode, then switch back to DSi mode.
 
-v1.0.0 uses the same supported originals as v0.9.98/v0.9.99. Its game binaries are identical to the final v0.9.104 builds Kai tested and approved; only release filenames and documentation changed. Both xdelta reconstructions were verified for the complete 512 MiB output. Paired native regressions and Kai's final confirmation are targeted evidence, not exhaustive hardware coverage.
+v1.0.1 uses the same supported originals as v0.9.98/v0.9.99/v1.0.0. It changes only two scene-script jump operands in each game to fix Black 2’s fusion sequence. Fresh-boot isolated melonDS tests from the reporter’s normal save complete fusion and start the fused Kyurem battle in both editions. Both xdelta reconstructions were verified for the complete 512 MiB output.

@@ -35,10 +35,10 @@ The focus stays on Gen 5 and the original Black 2 / White 2 adventure. Custom ba
 
 | Your game | Current patch |
 | :--- | :--- |
-| Pokémon Black 2 | [Following Black 2 · v1.0.0](https://github.com/omgkai/Following-Black-White-2/releases/download/v1.0.0/Following-Black-2-v1.0.0.xdelta) |
-| Pokémon White 2 | [Following White 2 · v1.0.0](https://github.com/omgkai/Following-Black-White-2/releases/download/v1.0.0/Following-White-2-v1.0.0.xdelta) |
+| Pokémon Black 2 | [Following Black 2 · v1.0.1](https://github.com/omgkai/Following-Black-White-2/releases/download/v1.0.1/Following-Black-2-v1.0.1.xdelta) |
+| Pokémon White 2 | [Following White 2 · v1.0.1](https://github.com/omgkai/Following-Black-White-2/releases/download/v1.0.1/Following-White-2-v1.0.1.xdelta) |
 
-> **v1.0.0 is out:** level-up trade evolutions, optional Full Dex encounters, corrected Zoroark/Therian followers, Entralink and saved-setting fixes, plus faster battle animations. [All changes and evolution levels →](CHANGELOG.md)
+> **v1.0.1 hotfix:** fixes the Black 2 black screen during Kyurem’s fusion scene. Includes all v1.0.0 features and trade-evolution levels. [What changed →](CHANGELOG.md)
 
 These downloads are patches. Bring your matching original English **DSi Enhanced** ROM and apply the patch for that game. [Patching instructions and supported source hashes →](PATCHING.md)
 
@@ -62,7 +62,7 @@ The [changelog](CHANGELOG.md) records releases, and each [GitHub Release](https:
 
 If something goes wrong, [open an issue](https://github.com/omgkai/Following-Black-White-2/issues/new) with your game, patch version, emulator/device, steps to reproduce, and whether you started normally or loaded an older state. Screenshots or recordings are useful. Do not upload ROM files or personal saves to a public issue.
 
-Kai confirmed the final v1.0.0 build working before publication. The main campaign was played through during development; v0.9.99 also has targeted paired melonDS and native regression checks. Kai confirmed both v0.9.99 prepatched builds work before publication. Every hardware, battle effect and camera combination has not been verified. Kai confirmed the Summary fix on DSi hardware in DS mode and reported DSi mode working after first booting in DS mode. Hardware coverage is not exhaustive; compatibility with other hacks remains unverified. Some transport sequences recall the follower where the original scene supports only one actor.
+The v1.0.1 fusion hotfix was reproduced and checked from a normal save in isolated melonDS tests for both games, through the start of the fused Kyurem battle. Kai confirmed the final v1.0.0 build working before publication. The main campaign was played through during development; v0.9.99 also has targeted paired melonDS and native regression checks. Kai confirmed both v0.9.99 prepatched builds work before publication. Every hardware, battle effect and camera combination has not been verified. Kai confirmed the Summary fix on DSi hardware in DS mode and reported DSi mode working after first booting in DS mode. Hardware coverage is not exhaustive; compatibility with other hacks remains unverified. Some transport sequences recall the follower where the original scene supports only one actor.
 
 ## About the project
 
@@ -77,4 +77,5 @@ Pokémon and the original game artwork belong to their respective owners. This i
 [KeepSake](https://github.com/omgkai/KeepSake) · [Allure](https://github.com/omgkai/Allure)
 
 </div>
+
 

@@ -1,5 +1,19 @@
 # What's new
 
+## v1.0.1 · November 25, 2026
+
+### Kyurem fusion hotfix
+
+- Fix a progression-blocking black screen in **Black 2** during the Giant Chasm fusion sequence before the Kyurem/Ghetsis battles.
+- Correct two version-specific script jumps that still pointed at instructions moved by the follower scene integration. Black 2 follows a different fusion-movie branch from White 2, which is why White 2 could play through the scene normally.
+- Include the corrected shared script in **both games**. All v1.0.0 features and evolution requirements remain unchanged.
+
+**Verified:** reproduced the v1.0.0 Black 2 failure from the reporter’s recovered normal save. Fresh-boot isolated melonDS tests of v1.0.1 complete fusion and start the fused Kyurem fight in both editions. Both xdelta patches reconstruct their exact full 512 MiB targets and reject an invalid source.
+
+**Updating:** apply your game’s patch to its matching clean English USA/Europe DSi Enhanced original, back up and keep your battery `.sav`, then start normally through **Continue**. No new game is needed. An old frozen `.dst` or `.mln` state restores its already-loaded scene script; use the normal save to replay the corrected scene. Supported original hashes are unchanged.
+
+[Download v1.0.1](https://github.com/omgkai/Following-Black-White-2/releases/tag/v1.0.1)
+
 ## v1.0.0 · November 22, 2026
 
 - **Trade evolutions become level-up evolutions.** No trading, held item or paired Pokémon is required. Everstones still prevent these level-up evolutions. The full requirements are listed below.
@@ -99,4 +113,5 @@ The main-story build brought following Pokémon, context-aware dialogue, express
 The Black 2 party-selection crash was corrected by fixing two edition-specific native calls. A paired offline audit and full patch-reconstruction checks were completed. The later v0.9.97 starter-to-menu regression exposed an additional memory overlap missed by that audit; use v0.9.97 or later for new games.
 
 Further area backgrounds and postgame additions remain unfinished.
+
 
